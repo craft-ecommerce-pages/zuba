@@ -176,7 +176,9 @@
     ],
     "descripcion": "Ocho bocados de pollo sin hueso, crocantes y jugosos, cubiertos con dos salsas a elección y acompañados de papas doradas.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/boneless/images/boneless-1.webp"
+    ],
     "variantes": [
       {
         "name": "Salsas (elige 2)",
@@ -315,7 +317,9 @@
     ],
     "descripcion": "Carne jugosa a la parrilla, queso fundido, vegetales frescos y tocino ahumado entre panes dorados. Simplemente irresistible.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/classic-burger/images/classic-burger-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -330,7 +334,9 @@
     ],
     "descripcion": "Cuarenta alitas brillantes y sabrosas, cuatro salsas para recorrer todos los antojos y papas calientes para compartir sin medida.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/combo-berlin/images/combo-berlin-1.webp"
+    ],
     "variantes": [
       {
         "name": "Salsas (elige 4)",
@@ -371,7 +377,9 @@
     ],
     "descripcion": "Cincuenta alitas para una celebración épica, cinco salsas, papas crujientes y cola de 2 litros bien fría. Nadie se queda con hambre.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/combo-manhattan/images/combo-manhattan-1.webp"
+    ],
     "variantes": [
       {
         "name": "Salsas (elige 5)",
@@ -412,7 +420,9 @@
     ],
     "descripcion": "Treinta alitas llenas de sabor, tres salsas para mezclar a tu gusto y papas crocantes: el combo que convierte cualquier reunión en fiesta.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/combo-new-york/images/combo-new-york-1.webp"
+    ],
     "variantes": [
       {
         "name": "Salsas (elige 3)",
@@ -453,7 +463,9 @@
     ],
     "descripcion": "Diez alitas doradas y jugosas, bañadas en tus dos salsas favoritas y servidas con papas crujientes recién hechas.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/combo-pekin/images/combo-pekin-1.webp"
+    ],
     "variantes": [
       {
         "name": "Salsas (elige 2)",
@@ -494,7 +506,9 @@
     ],
     "descripcion": "Veinte alitas irresistibles, crujientes por fuera y tiernas por dentro, con dos salsas a elección y una montaña de papas doradas.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/combo-venecia/images/combo-venecia-1.webp"
+    ],
     "variantes": [
       {
         "name": "Salsas (elige 2)",
@@ -1221,7 +1235,9 @@
     ],
     "descripcion": "Generosa porción de papas recién fritas, doradas, humeantes y crujientes hasta el último bocado.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/papas-fritas-350-g/images/papas-fritas-350-g-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1409,7 +1425,9 @@
     ],
     "descripcion": "Martes y jueves saben mejor: pide diez alitas y recibe veinte, con dos salsas que hacen cada bocado distinto. No incluye papas.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/promo-1010/images/promo-1010-1.webp"
+    ],
     "variantes": [
       {
         "name": "Salsas (elige 2)",
@@ -1444,7 +1462,9 @@
     ],
     "descripcion": "Treinta alitas por el precio de quince, recién bañadas en tres salsas a elección. El plan perfecto para compartir martes y jueves.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/promo-1515/images/promo-1515-1.webp"
+    ],
     "variantes": [
       {
         "name": "Salsas (elige 3)",
@@ -1479,7 +1499,9 @@
     ],
     "descripcion": "Una bandeja imponente de cuarenta y ocho alitas, cuatro salsas y puro sabor para la mesa completa. Disponible martes y jueves.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/promo-2424/images/promo-2424-1.webp"
+    ],
     "variantes": [
       {
         "name": "Salsas (elige 4)",

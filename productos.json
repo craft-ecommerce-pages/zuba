@@ -782,7 +782,9 @@
     ],
     "descripcion": "Dos litros de gaseosa bien fría para compartir la mesa y acompañar el festín completo.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/gaseosa-familiar-2-l/images/gaseosa-familiar-2-l-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -812,7 +814,9 @@
     ],
     "descripcion": "Bebida deportiva fría y refrescante para recuperar energía y apagar la sed.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/gatorade/images/gatorade-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },

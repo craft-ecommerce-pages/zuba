@@ -821,7 +821,9 @@
     ],
     "descripcion": "Agua mineral con burbujas finas, fría y vivaz, ideal para limpiar el paladar.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/guitig/images/guitig-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },

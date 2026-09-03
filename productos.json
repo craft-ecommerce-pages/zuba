@@ -93,7 +93,9 @@
     ],
     "descripcion": "Bife grueso y jugoso, marcado al carbón y terminado con sal para dejar brillar el sabor puro de la carne.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bife/images/bife-1.webp"
+    ],
     "variantes": [
       {
         "name": "Acompañamiento",
@@ -118,7 +120,9 @@
     ],
     "descripcion": "Bife Brangus seleccionado, sellado a alta temperatura para una costra sabrosa y un corazón especialmente tierno.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bife-brangus/images/bife-brangus-1.webp"
+    ],
     "variantes": [
       {
         "name": "Acompañamiento",
@@ -555,7 +559,9 @@
     ],
     "descripcion": "Costillas cocidas despacio al humo hasta quedar tiernas, jugosas y perfumadas; se desprenden del hueso con apenas tocarlas.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/costillas-ahumadas/images/costillas-ahumadas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1284,7 +1290,9 @@
     ],
     "descripcion": "Picaña con capa dorada y centro tierno, cortada contra la fibra para disfrutar toda su jugosidad y carácter de parrilla.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/picana/images/picana-1.webp"
+    ],
     "variantes": [
       {
         "name": "Acompañamiento",
@@ -1309,7 +1317,9 @@
     ],
     "descripcion": "Picaña Brangus de textura sedosa y sabor intenso, con grasa caramelizada al fuego y un interior que rebosa jugos.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/picana-brangus/images/picana-brangus-1.webp"
+    ],
     "variantes": [
       {
         "name": "Acompañamiento",
@@ -1490,7 +1500,9 @@
     ],
     "descripcion": "Ribeye intensamente marmoleado, sellado sobre brasas para que cada fibra conserve mantequilla natural, jugos y sabor profundo.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/ribeye/images/ribeye-1.webp"
+    ],
     "variantes": [
       {
         "name": "Acompañamiento",
@@ -1615,7 +1627,9 @@
     ],
     "descripcion": "El rey de la parrilla: tomahawk de gran presencia, costra ahumada, jugos concentrados y ese aroma a brasa que conquista antes del primer corte.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/tomahawk/images/tomahawk-1.webp"
+    ],
     "variantes": [
       {
         "name": "Acompañamiento",

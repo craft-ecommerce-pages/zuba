@@ -8,7 +8,7 @@
     "categorias": [
       "acompanamientos"
     ],
-    "descripcion": "Arroz moro humeante, sabroso y reconfortante, con granos sueltos y el toque criollo ideal para acompañar la parrilla.",
+    "descripcion": "Arroz criollo con frijoles, humeante y jugoso, de granos sueltos y ese toque ahumado que abraza cada bocado.",
     "stock": null,
     "imagenes": [
       "/producto/arroz-moro/images/arroz-moro-1.webp"
@@ -25,7 +25,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "150gr de carne de res a la parrilla, acompañada doble tocino, doble queso cheddar, tomate, y lechuga. acompañadas con papas fritas",
+    "descripcion": "150 g de res jugosa a la parrilla con doble tocino crujiente, doble cheddar derretido, tomate y lechuga fresca, coronada con salsa BBQ y papas fritas doradas.",
     "stock": null,
     "imagenes": [
       "/producto/bacon-bbq-burger/images/bacon-bbq-burger-1.webp"
@@ -42,7 +42,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Fruta y cremosidad batidas hasta quedar sedosas, frías y deliciosamente abundantes.",
+    "descripcion": "Fruta natural batida hasta quedar sedosa, helada y cremosa: una caricia fría que se derrite en el paladar.",
     "stock": null,
     "imagenes": [
       "/producto/batido/images/batido-1.webp"
@@ -76,7 +76,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "El bife ancho es un corte ubicado en el dorso del animal a la altura de la cuarta a décima vértebra torácica. Es el corte más apreciado del cuarto delantero.",
+    "descripcion": "Corte jugoso sellado a la parrilla al punto justo, con costra dorada y un interior tierno que se deshace en jugos.",
     "stock": null,
     "imagenes": [
       "/producto/bife/images/bife-1.webp"
@@ -112,7 +112,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "El bife ancho es un corte ubicado en el dorso del animal a la altura de la cuarta a décima vértebra torácica. Es el corte más apreciado del cuarto delantero.",
+    "descripcion": "Carne Brangus de marmoleo fino a la parrilla, con costra caramelizada y centro rosado rebosante de sabor.",
     "stock": null,
     "imagenes": [
       "/producto/bife-brangus/images/bife-brangus-1.webp"
@@ -148,7 +148,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "Burger a lo Pobre 150gr de carne de res a la parrilla, acompañada de huevo frito, maduro frito, de tocino, queso cheddar, tomate, y lechuga. acompañadas con papas fritas",
+    "descripcion": "150 g de res a la parrilla con huevo frito de yema cremosa, maduro frito, tocino, cheddar, tomate y lechuga, con papas fritas.",
     "stock": null,
     "imagenes": [
       "/producto/burger-a-lo-pobre/images/burger-a-lo-pobre-1.webp"
@@ -165,7 +165,7 @@
     "categorias": [
       "cervezas-micheladas"
     ],
-    "descripcion": "Cerveza personal bien fría, de espuma cremosa y final refrescante. Aprovecha cuatro por $10.",
+    "descripcion": "Cerveza helada de espuma cremosa y final refrescante. Lleva 4 por $10.",
     "stock": null,
     "imagenes": [
       "/producto/cerveza-personal/images/cerveza-personal-1.webp"
@@ -182,7 +182,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "1 pechuga a la parrilla acompañada de tocino, queso cheddar, tomate, y lechuga. acompañadas con papas fritas",
+    "descripcion": "Pechuga entera a la parrilla, dorada y jugosa, con tocino, cheddar derretido, tomate y lechuga, y papas fritas crujientes.",
     "stock": null,
     "imagenes": [
       "/producto/chicken-burger/images/chicken-burger-1.webp"
@@ -199,7 +199,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "150gr de carne de res a la parrilla, acompañada de chorizo de ternera a la parrilla, de tocino, queso cheddar, tomate, y lechuga. acompañadas con papas fritas",
+    "descripcion": "150 g de res a la parrilla con chorizo de ternera jugoso, tocino, cheddar, tomate y lechuga, y papas fritas.",
     "stock": null,
     "imagenes": [
       "/producto/choriburger/images/choriburger-1.webp"
@@ -216,7 +216,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "La chuleta es un corte especializado de la parte superior del costillar del cerdo o del espinazo.",
+    "descripcion": "Chuleta de cerdo a la parrilla, dorada por fuera y jugosa por dentro, con ese ahumado que invita a cada mordisco.",
     "stock": null,
     "imagenes": [
       "/producto/chuleta/images/chuleta-1.webp"
@@ -243,7 +243,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "150gr de carne de res a la parrilla acompañada de queso cheddar, tomate, pepino y lechuga y con sus salsas, acompañadas con papas fritas.",
+    "descripcion": "150 g de res a la parrilla con cheddar fundido, tomate, pepino y lechuga fresca, con salsas de la casa y papas fritas.",
     "stock": null,
     "imagenes": [
       "/producto/classic-burger/images/classic-burger-1.webp"
@@ -260,7 +260,7 @@
     "categorias": [
       "alitas"
     ],
-    "descripcion": "40 Alitas, Papas Importada, 4 Salsas",
+    "descripcion": "40 alitas glaseadas, papas importadas crujientes y 4 salsas para una mesa que no para de repetir.",
     "stock": null,
     "imagenes": [
       "/producto/combo-berlin/images/combo-berlin-1.webp"
@@ -378,7 +378,7 @@
     "categorias": [
       "alitas"
     ],
-    "descripcion": "50 Alitas, 1 Papas Importada, 1 gaseosa familiar, 5 Salsas",
+    "descripcion": "50 alitas, papas importadas, gaseosa familiar y 5 salsas: el festín completo para compartir sin límites.",
     "stock": null,
     "imagenes": [
       "/producto/combo-manhattan/images/combo-manhattan-1.webp"
@@ -521,7 +521,7 @@
     "categorias": [
       "alitas"
     ],
-    "descripcion": "30 Alitas, Papas Importada, 3 Salsas",
+    "descripcion": "30 alitas doradas con papas importadas y 3 salsas, para resolver el antojo a lo grande.",
     "stock": null,
     "imagenes": [
       "/producto/combo-new-york/images/combo-new-york-1.webp"
@@ -614,7 +614,7 @@
     "categorias": [
       "alitas"
     ],
-    "descripcion": "10 Alitas, Papas importadas, 2 salsas y Vegetales",
+    "descripcion": "10 alitas, papas importadas, 2 salsas y vegetales: la porción justa para empezar a antojarte.",
     "stock": null,
     "imagenes": [
       "/producto/combo-pekin/images/combo-pekin-1.webp"
@@ -657,7 +657,7 @@
     "categorias": [
       "alitas"
     ],
-    "descripcion": "20 Alitas, Papas Importada, 2 Salsas",
+    "descripcion": "20 alitas, papas importadas y 2 salsas: el balance perfecto entre sabor y porción.",
     "stock": null,
     "imagenes": [
       "/producto/combo-venecia/images/combo-venecia-1.webp"
@@ -725,7 +725,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "Costillas de cerdo Ahumada a la parrilla acompañada de una ensalada.",
+    "descripcion": "Costillas de cerdo ahumadas a fuego lento, con carne que se desprende del hueso y una ensalada fresca.",
     "stock": null,
     "imagenes": [
       "/producto/costillas-ahumadas/images/costillas-ahumadas-1.webp"
@@ -752,7 +752,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "Costillas de cerdo a la parrilla bañadas en sals BBQ",
+    "descripcion": "Costillas de cerdo a la parrilla bañadas en salsa BBQ caramelizada, pegajosas y llenas de sabor.",
     "stock": null,
     "imagenes": [
       "/producto/costillas-bbq/images/costillas-bbq-1.webp"
@@ -779,7 +779,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "Costillas de cerdo a la parrilla acompañada de una ensalada criolla.",
+    "descripcion": "Costillas a la parrilla con ensalada criolla fresca: el contraste ideal entre lo ahumado y lo fresco.",
     "stock": null,
     "imagenes": [
       "/producto/costillas-criollas/images/costillas-criollas-1.webp"
@@ -806,7 +806,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "Costillas de cerdo a la parrilla bañadas en salsas BBQ.",
+    "descripcion": "Costillas de cerdo a la parrilla glaseadas en salsas BBQ, con un toque ranchero que pide más.",
     "stock": null,
     "imagenes": [
       "/producto/costillas-rancheras/images/costillas-rancheras-1.webp"
@@ -833,7 +833,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "El cowboy Steak es un filete grueso con costilla y una presentación impresionante. La gran infiltración de grasa intramuscular (marmoreado) y intramuscular junto con el hueso de la costilla le confiere un gran sabor y una jugosidad excepcional.",
+    "descripcion": "Filete grueso con costilla y marmoleo intenso a la parrilla, con costra dorada y un centro increíblemente jugoso.",
     "stock": null,
     "imagenes": [
       "/producto/cowboy-steak/images/cowboy-steak-1.webp"
@@ -886,7 +886,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "Ron y cítricos agitados con hielo hasta lograr una textura helada, limpia y deliciosamente refrescante.",
+    "descripcion": "Ron y cítricos batidos con hielo hasta lograr una textura helada, limpia y deliciosamente refrescante.",
     "stock": null,
     "imagenes": [
       "/producto/daiquiri/images/daiquiri-1.webp"
@@ -903,7 +903,7 @@
     "categorias": [
       "acompanamientos"
     ],
-    "descripcion": "Yuca dorada en bastones: crocante por fuera, cremosa por dentro y perfecta para mojar en tu salsa favorita.",
+    "descripcion": "Bastones de yuca dorados, crocantes por fuera y cremosos por dentro, perfectos para mojar en tu salsa favorita.",
     "stock": null,
     "imagenes": [
       "/producto/deditos-de-yuca/images/deditos-de-yuca-1.webp"
@@ -920,7 +920,7 @@
     "categorias": [
       "ensaladas"
     ],
-    "descripcion": "POLLO A LA PLANCHA AL CHIMICHURRI, SOBRE UNA CAMA DE LECHUGA Y MIX DE VEGETALES",
+    "descripcion": "Pollo a la plancha al chimichurri sobre una cama de lechuga y mix de vegetales frescos.",
     "stock": null,
     "imagenes": [
       "/producto/ensalada-con-pollo/images/ensalada-con-pollo-1.webp"
@@ -937,7 +937,7 @@
     "categorias": [
       "ensaladas"
     ],
-    "descripcion": "VERDURA FRESCA (LECHUGA FRESCA, TOMATE CHERRY, PEPINO, CEBOLLA PERLA Y ZANAHORIA RALLADA)",
+    "descripcion": "Lechuga fresca, tomate cherry, pepino, cebolla perla y zanahoria rallada: crocante y ligera en cada bocado.",
     "stock": null,
     "imagenes": [
       "/producto/ensalada-fresca/images/ensalada-fresca-1.webp"
@@ -954,7 +954,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "Filete de Pollo acompañado de ensalada fresca. El",
+    "descripcion": "Filete de pollo jugoso a la parrilla acompañado de ensalada fresca: sabroso y ligero.",
     "stock": null,
     "imagenes": [
       "/producto/filete-de-pollo/images/filete-de-pollo-1.webp"
@@ -981,7 +981,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "Este corte proviene de un músculo que se encuentra situado bajo las vértebras lumbares; entre el lomo y las costillas, por lo que es un corte muy tierno.",
+    "descripcion": "El corte más tierno de la res, a la parrilla al punto, suave como mantequilla y lleno de jugos.",
     "stock": null,
     "imagenes": [
       "/producto/filet-mignon/images/filet-mignon-1.webp"
@@ -1051,7 +1051,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Gaseosa personal servida helada, burbujeante y lista para refrescar cada bocado.",
+    "descripcion": "Gaseosa servida helada, burbujeante y lista para refrescar cada bocado.",
     "stock": null,
     "imagenes": [
       "/producto/gaseosa-personal/images/gaseosa-personal-1.webp"
@@ -1085,7 +1085,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "150gr de carne de res a la parrilla acompañada una rodaja de pina a la parrilla, cebolla caramelizada, queso cheddar, tomate, pepino y lechuga y con sus salsas, acompañadas con papas fritas",
+    "descripcion": "150 g de res a la parrilla con piña asada caramelizada, cebolla caramelizada, cheddar, tomate, pepino y lechuga, con papas fritas.",
     "stock": null,
     "imagenes": [
       "/producto/hawaiana-burger/images/hawaiana-burger-1.webp"
@@ -1136,7 +1136,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "Jarra generosa de vino, cítricos y frutas frescas; vibrante, refrescante y hecha para brindar en compañía.",
+    "descripcion": "Jarra de vino, cítricos y frutas frescas: vibrante y refrescante, hecha para brindar en compañía.",
     "stock": null,
     "imagenes": [
       "/producto/jarra-de-sangria/images/jarra-de-sangria-1.webp"
@@ -1153,7 +1153,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "Una jarra humeante de vino especiado con cítricos y canela para compartir lentamente y disfrutar cada aroma.",
+    "descripcion": "Jarra humeante de vino especiado con cítricos y canela, para compartir despacio y disfrutar cada aroma.",
     "stock": null,
     "imagenes": [
       "/producto/jarra-de-vino-hervido/images/jarra-de-vino-hervido-1.webp"
@@ -1170,7 +1170,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "Es un corte de res bastante suave sin mucho marmoleado y que se cocina rápidamente sin endurecerse.",
+    "descripcion": "Lomo tierno y magro a la parrilla, sellado al punto, suave y con todo el sabor de las brasas.",
     "stock": null,
     "imagenes": [
       "/producto/lomo-fino/images/lomo-fino-1.webp"
@@ -1206,7 +1206,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "Tequila, limón recién exprimido y borde de sal en el balance perfecto entre cítrico, fresco y vibrante.",
+    "descripcion": "Tequila, limón recién exprimido y borde de sal: el balance perfecto entre cítrico, fresco y vibrante.",
     "stock": null,
     "imagenes": [
       "/producto/margarita/images/margarita-1.webp"
@@ -1223,7 +1223,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "El Matambre está situada entre el cuero y el costillar.",
+    "descripcion": "Matambre a la parrilla, fino y jugoso, con esa capa de grasa que se carameliza sobre las brasas.",
     "stock": null,
     "imagenes": [
       "/producto/matambre/images/matambre-1.webp"
@@ -1293,7 +1293,7 @@
     "categorias": [
       "cervezas-micheladas"
     ],
-    "descripcion": "Cerveza helada con limón, sal y ese toque especiado que despierta el paladar y pide otro sorbo.",
+    "descripcion": "Cerveza helada con limón, sal y un toque especiado que despierta el paladar y pide otro sorbo.",
     "stock": null,
     "imagenes": [
       "/producto/michelada-clasica/images/michelada-clasica-1.webp"
@@ -1336,7 +1336,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "Refrescante mezcla de hierbabuena, cítrico y hielo triturado, preparada al momento. También disponible en promo 3 por $10.",
+    "descripcion": "Hierbabuena fresca, cítrico y hielo triturado, preparado al momento. También en promo 3 por $10.",
     "stock": null,
     "imagenes": [
       "/producto/mojito/images/mojito-1.webp"
@@ -1364,7 +1364,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "Mollejitas asadas acompañada de papas chauchas al chimichurri y ensalada fresca.",
+    "descripcion": "Mollejitas asadas, crocantes por fuera y tiernas por dentro, con papas chauchas al chimichurri y ensalada fresca.",
     "stock": null,
     "imagenes": [
       "/producto/mollejitas/images/mollejitas-1.webp"
@@ -1408,7 +1408,7 @@
     "categorias": [
       "acompanamientos"
     ],
-    "descripcion": "Pequeñas papas chauchas doradas con hierbas y mantequilla, suaves en el centro y llenas de sabor casero.",
+    "descripcion": "Papas chauchas doradas con hierbas y mantequilla, suaves por dentro y llenas de sabor casero.",
     "stock": null,
     "imagenes": [
       "/producto/papas-chauchas/images/papas-chauchas-1.webp"
@@ -1426,7 +1426,7 @@
       "acompanamientos",
       "promos-2x1"
     ],
-    "descripcion": "Generosa porción de papas recién fritas, doradas, humeantes y crujientes hasta el último bocado.",
+    "descripcion": "Porción generosa de papas recién fritas, doradas, humeantes y crujientes hasta el último bocado.",
     "stock": null,
     "imagenes": [
       "/producto/papas-fritas-350-g/images/papas-fritas-350-g-1.webp"
@@ -1443,7 +1443,7 @@
     "categorias": [
       "parrilladas"
     ],
-    "descripcion": "COSTILLA, LOMO, CHULETA , POLLO Y CHORIZO",
+    "descripcion": "Costilla, lomo, chuleta, pollo y chorizo a la parrilla: la fiesta de brasas perfecta para dos.",
     "stock": null,
     "imagenes": [
       "/producto/parrillada-pareja/images/parrillada-pareja-1.webp"
@@ -1460,7 +1460,7 @@
     "categorias": [
       "parrilladas"
     ],
-    "descripcion": "LOMO, CHULETA , POLLO, Y CHORIZO",
+    "descripcion": "Lomo, chuleta, pollo y chorizo a la parrilla: todo el sabor de la parrilla en tu plato.",
     "stock": null,
     "imagenes": [
       "/producto/parrillada-personal/images/parrillada-personal-1.webp"
@@ -1477,7 +1477,7 @@
     "categorias": [
       "parrilladas"
     ],
-    "descripcion": "COSTILLA, LOMO, CHULETA , POLLO Y CHORIZO",
+    "descripcion": "Costilla, lomo, chuleta, pollo y chorizo en porción recargada, para los que llegan con hambre de verdad.",
     "stock": null,
     "imagenes": [
       "/producto/parrillada-zuba-recargada/images/parrillada-zuba-recargada-1.webp"
@@ -1494,7 +1494,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "La picanha está localizada en la parte superior de la cadera, tiene forma triangular. Está cubierta por una capa de grasa",
+    "descripcion": "Picaña con su capa de grasa dorada a la parrilla, jugosa y llena de sabor: el corte favorito de los asadores.",
     "stock": null,
     "imagenes": [
       "/producto/picana/images/picana-1.webp"
@@ -1530,7 +1530,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "La picanha está localizada en la parte superior de la cadera, tiene forma triangular. Está cubierta por una capa de grasa",
+    "descripcion": "Picaña Brangus de marmoleo intenso a la parrilla, con su grasa caramelizada y un centro tierno y jugoso.",
     "stock": null,
     "imagenes": [
       "/producto/picana-brangus/images/picana-brangus-1.webp"
@@ -1583,7 +1583,7 @@
     "categorias": [
       "acompanamientos"
     ],
-    "descripcion": "2 unidades de chorizo paisa",
+    "descripcion": "Dos chorizos paisa jugosos a la parrilla, con ese sabor especiado que enamora.",
     "stock": null,
     "imagenes": [
       "/producto/porcion-de-2-chorizos/images/porcion-de-2-chorizos-1.webp"
@@ -1601,7 +1601,7 @@
     "categorias": [
       "promos-2x1"
     ],
-    "descripcion": "20 Alitas, 2 Salsas y Vegetales\nNO INCLUYE PAPAS",
+    "descripcion": "20 alitas, 2 salsas y vegetales. No incluye papas.",
     "stock": null,
     "imagenes": [
       "/producto/promo-1010/images/promo-1010-1.webp"
@@ -1670,7 +1670,7 @@
     "categorias": [
       "promos-2x1"
     ],
-    "descripcion": "30 Alitas, 3 Salsas y Vegetales\nNO INCLUYE PAPAS",
+    "descripcion": "30 alitas, 3 salsas y vegetales. No incluye papas.",
     "stock": null,
     "imagenes": [
       "/producto/promo-1515/images/promo-1515-1.webp"
@@ -1764,7 +1764,7 @@
     "categorias": [
       "promos-2x1"
     ],
-    "descripcion": "48 Alitas, 4 Salsas y Vegetales\nNO INCLUYE PAPAS",
+    "descripcion": "48 alitas, 4 salsas y vegetales. No incluye papas.",
     "stock": null,
     "imagenes": [
       "/producto/promo-2424/images/promo-2424-1.webp"
@@ -1882,7 +1882,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "El Rib Eye es el corte de la parte superior de las costillas de la res",
+    "descripcion": "Rib Eye de la parte superior de las costillas, con su grasa veteada a la parrilla: jugoso y lleno de sabor.",
     "stock": null,
     "imagenes": [
       "/producto/ribeye/images/ribeye-1.webp"
@@ -1918,7 +1918,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "150gr de carne de res a la parrilla, acompañada de salchicha frita, de tocino, queso cheddar, tomate, y lechuga. acompañadas con papas fritas",
+    "descripcion": "150 g de res a la parrilla con salchicha frita, tocino, cheddar, tomate y lechuga, y papas fritas.",
     "stock": null,
     "imagenes": [
       "/producto/salchiburger/images/salchiburger-1.webp"
@@ -1952,7 +1952,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "El T-bone, como lo indica su nombre en inglés, es un corte especial que incluye un hueso en forma de T y separa de cada lado dos de las partes más nobles del animal, el bife angosto y el lomo.",
+    "descripcion": "T-Bone con su hueso en T que une bife y lomo en un solo corte a la parrilla, jugoso y espectacular.",
     "stock": null,
     "imagenes": [
       "/producto/t-bone-steak/images/t-bone-steak-1.webp"
@@ -2005,7 +2005,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "El Tomahawk Steak es un grueso bife que está compuesto principalmente por el músculo longisimus dorsi, aunque el corte compromete también otros músculos adyacentes, con hueso de las costillas anteriores (hueso del asado).",
+    "descripcion": "Tomahawk con su costilla entera a la parrilla, de corteza dorada y centro rosado que se deshace en la boca.",
     "stock": null,
     "imagenes": [
       "/producto/tomahawk/images/tomahawk-1.webp"
@@ -2075,7 +2075,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "Burger Zuba Marinera 150gr de carne de res a la parrilla, acompañada de camarones al chimichurri, de tocino, queso cheddar, tomate, y lechuga. acompañadas con papas fritas",
+    "descripcion": "150 g de res a la parrilla con camarones al chimichurri, tocino, cheddar, tomate y lechuga, y papas fritas.",
     "stock": null,
     "imagenes": [
       "/producto/zuba-marinera/images/zuba-marinera-1.webp"
@@ -2092,7 +2092,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "Acompañado de licor de caña",
+    "descripcion": "Frozen helado acompañado de licor de caña: una copa fría y tropical para refrescar el paladar.",
     "stock": null,
     "imagenes": [
       "/producto/frozen-zuba/images/frozen-zuba-1.webp"
@@ -2109,7 +2109,7 @@
     "categorias": [
       "cervezas-micheladas"
     ],
-    "descripcion": "",
+    "descripcion": "Cerveza Imperial helada, de espuma cremosa y un sabor que acompaña perfecto la parrilla.",
     "stock": null,
     "imagenes": [
       "/producto/imperial/images/imperial-1.webp"
@@ -2126,7 +2126,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "",
+    "descripcion": "Mezcla de frutas naturales de la casa, fresca y vibrante: el toque tropical de Zuba.",
     "stock": null,
     "imagenes": [
       "/producto/jugo-mix-zuba/images/jugo-mix-zuba-1.webp"
@@ -2143,7 +2143,7 @@
     "categorias": [
       "promos-2x1"
     ],
-    "descripcion": "3x2 en Mojitos",
+    "descripcion": "3 Mojitos por $10: hierbabuena, cítrico y hielo triturado, para compartir el frescor.",
     "stock": null,
     "imagenes": [
       "/producto/mojito-3x2/images/mojito-3x2-1.webp"
@@ -2160,7 +2160,7 @@
     "categorias": [
       "mariscos"
     ],
-    "descripcion": "Pulpo a la parrilla, acompañado de papas al chimichurri y ensalada fresca",
+    "descripcion": "Pulpo a la parrilla, tierno y ahumado, con papas al chimichurri y ensalada fresca.",
     "stock": null,
     "imagenes": [
       "/producto/pulpo-a-la-parrilla/images/pulpo-a-la-parrilla-1.webp"
@@ -2177,7 +2177,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "El Tomahawk Steak es un grueso bife que está compuesto principalmente por el músculo longisimus dorsi, aunque el corte compromete también otros músculos adyacentes, con hueso de las costillas anteriores (hueso del asado).",
+    "descripcion": "Tomahawk Brangus de marmoleo intenso con su costilla entera a la parrilla, jugoso y espectacular.",
     "stock": null,
     "imagenes": [
       "/producto/tomahawk-brangus/images/tomahawk-brangus-1.webp"
@@ -2213,7 +2213,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "",
+    "descripcion": "Agua natural, pura y refrescante, para hidratarte y acompañar cada plato.",
     "stock": null,
     "imagenes": [
       "/producto/agua-natural/images/agua-natural-1.webp"
@@ -2230,7 +2230,7 @@
     "categorias": [
       "mariscos"
     ],
-    "descripcion": "",
+    "descripcion": "Causa limeña cremosa coronada con pulpo a la parrilla: un viaje de sabores peruanos en cada bocado.",
     "stock": null,
     "imagenes": [
       "/producto/causa-con-pulpo-a-la-parrilla/images/causa-con-pulpo-a-la-parrilla-1.webp"
@@ -2247,7 +2247,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "",
+    "descripcion": "Gin premium con tónica helada y un toque cítrico, refrescante y elegante en cada sorbo.",
     "stock": null,
     "imagenes": [
       "/producto/gin-tonic/images/gin-tonic-1.webp"
@@ -2264,7 +2264,7 @@
     "categorias": [
       "cortes-premium"
     ],
-    "descripcion": "El T-bone, como lo indica su nombre en inglés, es un corte especial que incluye un hueso en forma de T y separa de cada lado dos de las partes más nobles del animal, el bife angosto y el lomo.",
+    "descripcion": "Porterhouse Brangus de marmoleo intenso con su hueso en T, a la parrilla y lleno de jugos.",
     "stock": null,
     "imagenes": [
       "/producto/porterhouse-brangus/images/porterhouse-brangus-1.webp"
@@ -2300,7 +2300,7 @@
     "categorias": [
       "mariscos"
     ],
-    "descripcion": "Jalea de Pescado acompañado de yuca frita y ensalada fresca.",
+    "descripcion": "Jalea de pescado crocante con yuca frita y ensalada fresca: el sabor del mar en cada bocado.",
     "stock": null,
     "imagenes": [
       "/producto/jalea-de-pescado/images/jalea-de-pescado-1.webp"
@@ -2317,7 +2317,7 @@
     "categorias": [
       "mariscos"
     ],
-    "descripcion": "Jalea Mixta de Mariscos acompañado de yuca frita y ensalada fresca.",
+    "descripcion": "Jalea mixta de mariscos crocante con yuca frita y ensalada fresca: un festín de mar.",
     "stock": null,
     "imagenes": [
       "/producto/jalea-mixta-de-mariscos/images/jalea-mixta-de-mariscos-1.webp"
@@ -2334,7 +2334,7 @@
     "categorias": [
       "mariscos"
     ],
-    "descripcion": "",
+    "descripcion": "Lo mejor del mar y la parrilla juntos: cortes jugosos y mariscos frescos en un solo festín.",
     "stock": null,
     "imagenes": [
       "/producto/parrillada-mar-y-tierra/images/parrillada-mar-y-tierra-1.webp"
@@ -2351,7 +2351,7 @@
     "categorias": [
       "mariscos"
     ],
-    "descripcion": "Salmón a la Parrilla acompañado de papas al chimichurri y ensalada fresca",
+    "descripcion": "Salmón a la parrilla, jugoso y dorado, con papas al chimichurri y ensalada fresca.",
     "stock": null,
     "imagenes": [
       "/producto/salmon-a-la-parrilla/images/salmon-a-la-parrilla-1.webp"
@@ -2368,7 +2368,7 @@
     "categorias": [
       "mariscos"
     ],
-    "descripcion": "LOMAR, 😋 Lomo Fino y 3 Langostino a la Parrilla, acompañado de ensalada fresca ademas tu eliges la guarnición entre, Papas Fritas, Yuca Frita o Arroz Moro.",
+    "descripcion": "Lomo fino con 3 langostinos a la parrilla y ensalada fresca. Elige tu guarnición: papas fritas, yuca frita o arroz moro.",
     "stock": null,
     "imagenes": [
       "/producto/lomar/images/lomar-1.webp"
@@ -2385,7 +2385,7 @@
     "categorias": [
       "mariscos"
     ],
-    "descripcion": "Camarones al Panko acompañado de papas fritas y ensalada fresca.",
+    "descripcion": "Camarones empanizados en panko, crocantes por fuera y jugosos por dentro, con papas fritas y ensalada fresca.",
     "stock": null,
     "imagenes": [
       "/producto/camarones-al-panko/images/camarones-al-panko-1.webp"
@@ -2402,7 +2402,7 @@
     "categorias": [
       "mariscos"
     ],
-    "descripcion": "Chuleta de Picudo acompañado de papas fritas y ensalada fresca.",
+    "descripcion": "Chuleta de picudo a la parrilla, sabrosa y jugosa, con papas fritas y ensalada fresca.",
     "stock": null,
     "imagenes": [
       "/producto/chuleta-de-picudo/images/chuleta-de-picudo-1.webp"
@@ -2419,7 +2419,7 @@
     "categorias": [
       "mariscos"
     ],
-    "descripcion": "Arroz húmedo con mixtura de mariscos.",
+    "descripcion": "Arroz húmedo y cremoso con mixtura de mariscos frescos: un abrazo de sabor a mar.",
     "stock": null,
     "imagenes": [
       "/producto/arroz-con-mariscos/images/arroz-con-mariscos-1.webp"
@@ -2436,7 +2436,7 @@
     "categorias": [
       "mariscos"
     ],
-    "descripcion": "Ceviche de Pescado (Peruano) acompañado de leche de tigre, tostado y chifle",
+    "descripcion": "Ceviche peruano con leche de tigre, tostado y chifle: fresco y lleno de cítrico.",
     "stock": null,
     "imagenes": [
       "/producto/ceviche-de-pescado-peruano/images/ceviche-de-pescado-peruano-1.webp"
@@ -2453,7 +2453,7 @@
     "categorias": [
       "mariscos"
     ],
-    "descripcion": "Ceviche de la Casa Zuba es una mixtura de raiscos acompañado de leche de tigre, tostado y chifle",
+    "descripcion": "Mixtura de mariscos en leche de tigre, con tostado y chifle: el ceviche insignia de la casa Zuba.",
     "stock": null,
     "imagenes": [
       "/producto/ceviche-de-la-casa-zuba/images/ceviche-de-la-casa-zuba-1.webp"
@@ -2470,7 +2470,7 @@
     "categorias": [
       "mariscos"
     ],
-    "descripcion": "",
+    "descripcion": "Arroz chaufa salteado al wok con su toque ahumado, de granos sueltos y llenos de sabor oriental.",
     "stock": null,
     "imagenes": [
       "/producto/arroz-chaufa/images/arroz-chaufa-1.webp"

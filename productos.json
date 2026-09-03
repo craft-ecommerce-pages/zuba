@@ -761,7 +761,9 @@
     ],
     "descripcion": "Un litro de té frío, suave y frutal, perfecto para compartir durante toda la comida.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/fuze-tea-1-l/images/fuze-tea-1-l-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },

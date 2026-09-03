@@ -44,7 +44,9 @@
     ],
     "descripcion": "Carne sellada al fuego, queso cremoso, abundante tocino crujiente y salsa BBQ ahumada escurriendo sobre cada capa.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bacon-bbq-burger/images/bacon-bbq-burger-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -147,7 +149,9 @@
     ],
     "descripcion": "Corte Angus de gran marmoleo, sellado a fuego intenso para lograr una costra profunda y un centro tierno, jugoso y lleno de sabor.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bife-de-angus/images/bife-de-angus-1.webp"
+    ],
     "variantes": [
       {
         "name": "Acompañamiento",
@@ -209,7 +213,9 @@
     ],
     "descripcion": "Carne, queso y tocino coronados con huevo de yema sedosa y maduro caramelizado. Una combinación ecuatoriana que abraza el paladar.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/burger-a-lo-pobre/images/burger-a-lo-pobre-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -258,7 +264,9 @@
     ],
     "descripcion": "Pechuga de pollo tierna y marcada a la parrilla, queso derretido, tocino crujiente y vegetales frescos en pan tostado.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/chicken-burger/images/chicken-burger-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -273,7 +281,9 @@
     ],
     "descripcion": "Carne jugosa y chorizo dorado al carbón con queso fundido, tocino y vegetales frescos. Potente, ahumada y gloriosamente abundante.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/choriburger/images/choriburger-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -644,7 +654,9 @@
     ],
     "descripcion": "Imponente corte con hueso, asado lentamente sobre brasas hasta quedar dorado por fuera y suculento por dentro.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/cowboy-steak/images/cowboy-steak-1.webp"
+    ],
     "variantes": [
       {
         "name": "Acompañamiento",
@@ -890,7 +902,9 @@
     ],
     "descripcion": "Carne a la parrilla, queso derretido, tocino crocante y piña caramelizada: el equilibrio perfecto entre ahumado, salado y dulce.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/hawaiana-burger/images/hawaiana-burger-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1527,7 +1541,9 @@
     ],
     "descripcion": "Una burger sin timidez: carne jugosa, queso fundido, tocino, vegetales y salchicha dorada para duplicar el sabor.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/salchiburger/images/salchiburger-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1688,7 +1704,9 @@
     ],
     "descripcion": "Nuestra burger más atrevida: carne a la parrilla, queso, tocino y camarones salteados en mantequilla que aportan un final marino irresistible.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/zuba-marinera/images/zuba-marinera-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   }

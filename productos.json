@@ -1418,6 +1418,7 @@
     "id": "7ce4a3bd-a5ea-48ca-a21c-988d2fbced28",
     "slug": "promo-1010",
     "nombre": "Promo 10+10",
+    "tipo": "promocion",
     "precio": "12.99",
     "precio_promo": "",
     "categorias": [
@@ -1455,6 +1456,7 @@
     "id": "17630c16-e3fa-48fe-bdd7-b8eff24c92fd",
     "slug": "promo-1515",
     "nombre": "Promo 15+15",
+    "tipo": "promocion",
     "precio": "18.99",
     "precio_promo": "",
     "categorias": [
@@ -1492,6 +1494,7 @@
     "id": "7919433b-8b25-4b98-9cf1-3e5d8247571d",
     "slug": "promo-2424",
     "nombre": "Promo 24+24",
+    "tipo": "promocion",
     "precio": "29.99",
     "precio_promo": "",
     "categorias": [

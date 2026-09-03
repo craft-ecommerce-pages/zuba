@@ -2390,7 +2390,25 @@
     "imagenes": [
       "/producto/camarones-al-panko/images/camarones-al-panko-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Cantidad",
+        "options": [
+          {
+            "label": "Media libra ($10.00)",
+            "price": 10
+          },
+          {
+            "label": "Una Libra ($14.00)",
+            "price": 14
+          },
+          {
+            "label": "Libra y Media ($17.00)",
+            "price": 17
+          }
+        ]
+      }
+    ],
     "sku": ""
   },
   {

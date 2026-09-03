@@ -12,6 +12,18 @@
     "parrilladas": "🔥 Parrilladas",
     "promos-2x1": "🔥 Alitas 2x1"
   },
+  "category_order": [
+    "alitas",
+    "promos-2x1",
+    "burgers",
+    "cortes-premium",
+    "parrilladas",
+    "ensaladas",
+    "acompanamientos",
+    "cocteles",
+    "cervezas-micheladas",
+    "bebidas"
+  ],
   "currency": "$",
   "hero_title": "Fuego, sabor y \u003cspan class=\"hl\"\u003emomentos especiales\u003c/span\u003e",
   "location_intro": "Calle Venezuela y Fernando Rodríguez, Santo Domingo, Ecuador",

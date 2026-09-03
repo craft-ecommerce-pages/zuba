@@ -1,1 +1,1577 @@
-[]
+[
+  {
+    "id": "d77a2156-33a6-4fc6-a060-a7a8dd584020",
+    "slug": "agua-botella",
+    "nombre": "Agua Botella",
+    "precio": "1.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Agua pura y bien fría, la pausa refrescante ideal entre sabores intensos.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "2ad57fee-89fc-4c97-b39d-a1ec1912bf36",
+    "slug": "arroz-moro",
+    "nombre": "Arroz Moro",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "acompanamientos"
+    ],
+    "descripcion": "Arroz moro humeante, sabroso y reconfortante, con granos sueltos y el toque criollo ideal para acompañar la parrilla.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "e1fb3a6b-2312-4f75-bf59-7a1c6df2f935",
+    "slug": "bacon-bbq-burger",
+    "nombre": "Bacon BBQ Burger",
+    "precio": "7.00",
+    "precio_promo": "",
+    "categorias": [
+      "burgers"
+    ],
+    "descripcion": "Carne sellada al fuego, queso cremoso, abundante tocino crujiente y salsa BBQ ahumada escurriendo sobre cada capa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "67fa8a3c-48a3-4eeb-9d83-22be960791dd",
+    "slug": "batido",
+    "nombre": "Batido",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Fruta y cremosidad batidas hasta quedar sedosas, frías y deliciosamente abundantes.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Maracuyá",
+          "Frutilla",
+          "Mora",
+          "Mango",
+          "Guanábana",
+          "Piña",
+          "Marilyn Monroe",
+          "Limonada",
+          "Limonada rosada",
+          "Mix Zuba"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "88b11f38-7f20-4688-ac77-1dff2fb89b79",
+    "slug": "bife",
+    "nombre": "Bife",
+    "precio": "11.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Bife grueso y jugoso, marcado al carbón y terminado con sal para dejar brillar el sabor puro de la carne.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Acompañamiento",
+        "options": [
+          "Arroz moro",
+          "Yuca",
+          "Papas fritas"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "8939f25e-d111-4e74-ad63-f699f24c1a4f",
+    "slug": "bife-brangus",
+    "nombre": "Bife Brangus",
+    "precio": "14.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Bife Brangus seleccionado, sellado a alta temperatura para una costra sabrosa y un corazón especialmente tierno.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Acompañamiento",
+        "options": [
+          "Arroz moro",
+          "Yuca",
+          "Papas fritas"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "2fcc5bbe-7ad5-48c8-85ab-2830eb59bf50",
+    "slug": "bife-de-angus",
+    "nombre": "Bife de Angus",
+    "precio": "24.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Corte Angus de gran marmoleo, sellado a fuego intenso para lograr una costra profunda y un centro tierno, jugoso y lleno de sabor.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Acompañamiento",
+        "options": [
+          "Arroz moro",
+          "Yuca",
+          "Papas fritas"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "5f9da36d-0d26-4817-8103-054600d86f1a",
+    "slug": "boneless",
+    "nombre": "Boneless",
+    "precio": "9.99",
+    "precio_promo": "",
+    "categorias": [
+      "alitas"
+    ],
+    "descripcion": "Ocho bocados de pollo sin hueso, crocantes y jugosos, cubiertos con dos salsas a elección y acompañados de papas doradas.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Salsas (elige 2)",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "607c3b49-1e67-495c-8360-ef66105a09af",
+    "slug": "burger-a-lo-pobre",
+    "nombre": "Burger a lo Pobre",
+    "precio": "6.50",
+    "precio_promo": "",
+    "categorias": [
+      "burgers"
+    ],
+    "descripcion": "Carne, queso y tocino coronados con huevo de yema sedosa y maduro caramelizado. Una combinación ecuatoriana que abraza el paladar.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "45b97582-8624-460e-9744-f123abe354c4",
+    "slug": "caipirinha",
+    "nombre": "Caipirinha",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Limón fresco macerado, dulzor equilibrado y hielo abundante en un cóctel brasileño vibrante. Promo 4 por $10.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "2bb35402-6da1-4c5b-8989-2f8deffd812d",
+    "slug": "cerveza-personal",
+    "nombre": "Cerveza Personal",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "cervezas-micheladas"
+    ],
+    "descripcion": "Cerveza personal bien fría, de espuma cremosa y final refrescante. Aprovecha cuatro por $10.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "732200d4-1ca6-434c-bc3e-aceb80c29875",
+    "slug": "chicken-burger",
+    "nombre": "Chicken Burger",
+    "precio": "6.00",
+    "precio_promo": "",
+    "categorias": [
+      "burgers"
+    ],
+    "descripcion": "Pechuga de pollo tierna y marcada a la parrilla, queso derretido, tocino crujiente y vegetales frescos en pan tostado.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "1f978ed4-742b-4c48-b00b-1ffc693de94c",
+    "slug": "choriburger",
+    "nombre": "Choriburger",
+    "precio": "7.00",
+    "precio_promo": "",
+    "categorias": [
+      "burgers"
+    ],
+    "descripcion": "Carne jugosa y chorizo dorado al carbón con queso fundido, tocino y vegetales frescos. Potente, ahumada y gloriosamente abundante.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "0265b1e9-7510-48c2-bbfe-8b7c92cbe359",
+    "slug": "chuleta",
+    "nombre": "Chuleta",
+    "precio": "7.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Chuleta gruesa, jugosa y bien sazonada, con marcas de parrilla y una costra dorada que concentra todo el sabor.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8f4584d6-8752-4002-ad62-f5f09c755fc7",
+    "slug": "classic-burger",
+    "nombre": "Classic Burger",
+    "precio": "4.00",
+    "precio_promo": "",
+    "categorias": [
+      "burgers"
+    ],
+    "descripcion": "Carne jugosa a la parrilla, queso fundido, vegetales frescos y tocino ahumado entre panes dorados. Simplemente irresistible.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "966f668d-c508-4340-ac7d-73b4e434cc50",
+    "slug": "combo-berlin",
+    "nombre": "Combo Berlín",
+    "precio": "34.99",
+    "precio_promo": "",
+    "categorias": [
+      "alitas"
+    ],
+    "descripcion": "Cuarenta alitas brillantes y sabrosas, cuatro salsas para recorrer todos los antojos y papas calientes para compartir sin medida.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Salsas (elige 4)",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "6f4b887e-1283-44eb-a6e5-00ea28442ec9",
+    "slug": "combo-manhattan",
+    "nombre": "Combo Manhattan",
+    "precio": "44.99",
+    "precio_promo": "",
+    "categorias": [
+      "alitas"
+    ],
+    "descripcion": "Cincuenta alitas para una celebración épica, cinco salsas, papas crujientes y cola de 2 litros bien fría. Nadie se queda con hambre.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Salsas (elige 5)",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "f616b3be-a1e1-444c-85d9-63053f5ed266",
+    "slug": "combo-new-york",
+    "nombre": "Combo New York",
+    "precio": "25.99",
+    "precio_promo": "",
+    "categorias": [
+      "alitas"
+    ],
+    "descripcion": "Treinta alitas llenas de sabor, tres salsas para mezclar a tu gusto y papas crocantes: el combo que convierte cualquier reunión en fiesta.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Salsas (elige 3)",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "724bfa3e-aac9-48f2-be25-d56a68fd8950",
+    "slug": "combo-pekin",
+    "nombre": "Combo Pekín",
+    "precio": "9.99",
+    "precio_promo": "",
+    "categorias": [
+      "alitas"
+    ],
+    "descripcion": "Diez alitas doradas y jugosas, bañadas en tus dos salsas favoritas y servidas con papas crujientes recién hechas.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Salsas (elige 2)",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "fbb089ac-f119-4d87-88a3-0d9187e65a3f",
+    "slug": "combo-venecia",
+    "nombre": "Combo Venecia",
+    "precio": "17.99",
+    "precio_promo": "",
+    "categorias": [
+      "alitas"
+    ],
+    "descripcion": "Veinte alitas irresistibles, crujientes por fuera y tiernas por dentro, con dos salsas a elección y una montaña de papas doradas.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Salsas (elige 2)",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "a745db00-2ffc-44d7-80a9-2da7e3ddcf19",
+    "slug": "copa-de-sangria",
+    "nombre": "Copa de Sangría",
+    "precio": "6.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Vino frío con frutas jugosas y notas cítricas, servido con hielo para un sorbo fresco y lleno de color.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "70043b00-fb4b-46e7-93bf-b241e3c4d802",
+    "slug": "copa-de-vino-hervido",
+    "nombre": "Copa de Vino Hervido",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Vino caliente infusionado con canela, naranja y especias; una copa aromática que abriga desde el primer sorbo.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "6b190a74-95d6-4b31-87ae-ea863b0b18e8",
+    "slug": "costillas-ahumadas",
+    "nombre": "Costillas Ahumadas",
+    "precio": "10.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Costillas cocidas despacio al humo hasta quedar tiernas, jugosas y perfumadas; se desprenden del hueso con apenas tocarlas.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "ed6d34d3-7015-4d2d-9fa5-b4e709ab254a",
+    "slug": "costillas-bbq",
+    "nombre": "Costillas BBQ",
+    "precio": "8.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Costillas suaves lacadas con BBQ de notas dulces y ahumadas, caramelizadas al fuego hasta lograr bordes pegajosos y deliciosos.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "5aa8a18e-1900-41b1-9c81-29d6dc66446a",
+    "slug": "costillas-criollas",
+    "nombre": "Costillas Criollas",
+    "precio": "8.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Costillas jugosas bañadas en una salsa criolla de sabor casero, vibrante y reconfortante, terminadas a la parrilla.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8d46d060-d294-440c-917e-ebf5eaf4e604",
+    "slug": "costillas-dobles",
+    "nombre": "Costillas Dobles",
+    "precio": "12.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Doble porción de costillas carnosas y brillantes, lentamente cocidas para una ternura que se deshace en la boca.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "b989799d-c2ea-47b4-b041-eb5669d09a0d",
+    "slug": "costillas-rancheras",
+    "nombre": "Costillas Rancheras",
+    "precio": "8.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Costillas tiernas con sazón ranchera, especias cálidas y un toque ahumado que despierta el apetito desde el primer aroma.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "670baaff-247f-40fd-b1a2-3ae9aff3b5e8",
+    "slug": "cowboy-steak",
+    "nombre": "Cowboy Steak",
+    "precio": "16.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Imponente corte con hueso, asado lentamente sobre brasas hasta quedar dorado por fuera y suculento por dentro.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Acompañamiento",
+        "options": [
+          "Arroz moro",
+          "Yuca",
+          "Papas fritas"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "ed682ace-3562-4015-b28d-1fe061ae0288",
+    "slug": "cuba-libre",
+    "nombre": "Cuba Libre",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Ron, cola helada y un golpe de limón: burbujeante, aromático y tan clásico como irresistible.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "3c254885-4043-4953-8f51-825440c06b87",
+    "slug": "daiquiri",
+    "nombre": "Daiquiri",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Ron y cítricos agitados con hielo hasta lograr una textura helada, limpia y deliciosamente refrescante.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "d932c278-ce93-4c7a-ac3c-ca7eef29cc55",
+    "slug": "deditos-de-yuca",
+    "nombre": "Deditos de Yuca",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "acompanamientos"
+    ],
+    "descripcion": "Yuca dorada en bastones: crocante por fuera, cremosa por dentro y perfecta para mojar en tu salsa favorita.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "a9d89926-b3a8-403d-a698-b902ce99ed43",
+    "slug": "ensalada-con-pollo",
+    "nombre": "Ensalada con Pollo",
+    "precio": "5.99",
+    "precio_promo": "",
+    "categorias": [
+      "ensaladas"
+    ],
+    "descripcion": "Pollo al chimichurri, tierno y recién marcado, sobre una cama crujiente de lechuga, tomate, pepino y cebolla fresca.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "aa499b96-0a7a-4821-ab65-416e68bb570e",
+    "slug": "ensalada-fresca",
+    "nombre": "Ensalada Fresca",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [
+      "ensaladas"
+    ],
+    "descripcion": "Lechuga crujiente, tomates cherry dulces, pepino fresco y cebolla perla con un aliño ligero que realza cada vegetal.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "e38b82e7-7c72-4437-82ef-6108d34447c2",
+    "slug": "filete-de-pollo",
+    "nombre": "Filete de Pollo",
+    "precio": "7.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Pechuga de pollo tierna y jugosa, marinada con hierbas y marcada sobre brasas para un aroma ahumado irresistible.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "35c8c106-eaa5-44d4-be21-d9d6e91c958e",
+    "slug": "filet-mignon",
+    "nombre": "Filet Mignon",
+    "precio": "14.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Medallón alto y extraordinariamente tierno, con costra dorada, centro jugoso y una elegante salsa de champiñones.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "81ea9d76-39f1-418d-8ea7-c56e0cadf691",
+    "slug": "fuze-tea",
+    "nombre": "Fuze Tea",
+    "precio": "1.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Té frío y ligero con notas frutales, servido helado para refrescar sin prisa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "aa3883ee-3e52-4633-b21a-018499c4cdc0",
+    "slug": "fuze-tea-1-l",
+    "nombre": "Fuze Tea 1 L",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Un litro de té frío, suave y frutal, perfecto para compartir durante toda la comida.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "a7b88886-3733-4282-a4b0-dc7acfe25f3c",
+    "slug": "gaseosa-familiar-2-l",
+    "nombre": "Gaseosa Familiar 2 L",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Dos litros de gaseosa bien fría para compartir la mesa y acompañar el festín completo.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "ee0f0f23-f588-464d-a147-3cad6f9dee03",
+    "slug": "gaseosa-personal",
+    "nombre": "Gaseosa Personal",
+    "precio": "1.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Gaseosa personal servida helada, burbujeante y lista para refrescar cada bocado.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "053b35e3-704b-4136-a70d-ea834ec0d368",
+    "slug": "gatorade",
+    "nombre": "Gatorade",
+    "precio": "1.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Bebida deportiva fría y refrescante para recuperar energía y apagar la sed.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "fd048fe4-bec5-4921-bcee-a4809915b86e",
+    "slug": "guitig",
+    "nombre": "Güitig",
+    "precio": "1.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Agua mineral con burbujas finas, fría y vivaz, ideal para limpiar el paladar.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "12e9fa9b-e595-4312-a254-43edbbf6cf19",
+    "slug": "hawaiana-burger",
+    "nombre": "Hawaiana Burger",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "burgers"
+    ],
+    "descripcion": "Carne a la parrilla, queso derretido, tocino crocante y piña caramelizada: el equilibrio perfecto entre ahumado, salado y dulce.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "09fcf219-bfc0-4608-9fe5-0e6e3868bbe5",
+    "slug": "jarra-de-jugo",
+    "nombre": "Jarra de Jugo",
+    "precio": "8.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Jarra generosa de fruta fresca, vibrante y helada, hecha para llenar los vasos una y otra vez.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Maracuyá",
+          "Frutilla",
+          "Mora",
+          "Mango",
+          "Guanábana",
+          "Piña",
+          "Marilyn Monroe",
+          "Limonada",
+          "Limonada rosada",
+          "Mix Zuba"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "00b2bfde-6d88-488e-9b46-d50b0a60fd10",
+    "slug": "jarra-de-sangria",
+    "nombre": "Jarra de Sangría",
+    "precio": "18.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Jarra generosa de vino, cítricos y frutas frescas; vibrante, refrescante y hecha para brindar en compañía.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "1b643440-f5df-40c7-9fde-4dd1e4a7d90c",
+    "slug": "jarra-de-vino-hervido",
+    "nombre": "Jarra de Vino Hervido",
+    "precio": "15.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Una jarra humeante de vino especiado con cítricos y canela para compartir lentamente y disfrutar cada aroma.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "0076393f-cd3e-44b1-8bbc-e62d1cc6767b",
+    "slug": "lomo-fino",
+    "nombre": "Lomo Fino",
+    "precio": "12.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Lomo fino de textura delicada, sellado al punto para conservar sus jugos y terminado con mantequilla aromática.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "056997ee-ae4f-4be3-81da-eeebb6fe58d7",
+    "slug": "margarita",
+    "nombre": "Margarita",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Tequila, limón recién exprimido y borde de sal en el balance perfecto entre cítrico, fresco y vibrante.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "aa7878a6-427e-48c0-a232-f5454ce79fee",
+    "slug": "matambre",
+    "nombre": "Matambre",
+    "precio": "9.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Matambre marinado, dorado lentamente a la parrilla hasta quedar tierno, sabroso y con irresistibles bordes tostados.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "d3b291e6-579d-44d4-9d28-39af186bab33",
+    "slug": "media-jarra-de-jugo",
+    "nombre": "Media Jarra de Jugo",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Media jarra de jugo natural recién preparado, intensamente frutal y perfecta para compartir.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Maracuyá",
+          "Frutilla",
+          "Mora",
+          "Mango",
+          "Guanábana",
+          "Piña",
+          "Marilyn Monroe",
+          "Limonada",
+          "Limonada rosada",
+          "Mix Zuba"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "866fd3b7-4302-4172-ab01-74f5c8a8a5c1",
+    "slug": "michelada-clasica",
+    "nombre": "Michelada Clásica",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "cervezas-micheladas"
+    ],
+    "descripcion": "Cerveza helada con limón, sal y ese toque especiado que despierta el paladar y pide otro sorbo.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "b16eb92f-8762-4836-a688-29a58e998133",
+    "slug": "michelada-corona",
+    "nombre": "Michelada Corona",
+    "precio": "6.00",
+    "precio_promo": "",
+    "categorias": [
+      "cervezas-micheladas"
+    ],
+    "descripcion": "Corona bien fría convertida en una michelada chispeante, cítrica y atrevida, con limón o maracuyá.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Limón",
+          "Maracuyá"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "4c8f799b-1617-49cc-b347-ed418a5b16f6",
+    "slug": "milkshake",
+    "nombre": "Milkshake",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Batido espeso, frío y cremoso, coronado para convertir cada sorbo en postre.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Oreo",
+          "Frutilla"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "ba388c39-9196-4e63-ac25-33838d9c7612",
+    "slug": "mojito",
+    "nombre": "Mojito",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Refrescante mezcla de hierbabuena, cítrico y hielo triturado, preparada al momento. También disponible en promo 3 por $10.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Limón",
+          "Maracuyá",
+          "Frutilla",
+          "Blue"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "0e9d4fc9-9c5c-4258-a15b-efc60ab0d9b5",
+    "slug": "mollejitas",
+    "nombre": "Mollejitas",
+    "precio": "9.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Mollejitas doradas y crujientes por fuera, suaves por dentro, servidas chisporroteando con limón y chimichurri fresco.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "616e3374-ae72-4949-8abd-b99a96157911",
+    "slug": "orgasmo",
+    "nombre": "Orgasmo",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Cóctel cremoso, seductor y aterciopelado, con notas dulces que se deslizan suavemente por el paladar.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "495feb11-012d-4de4-9996-7a6dab07e42c",
+    "slug": "papas-chauchas",
+    "nombre": "Papas Chauchas",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "acompanamientos"
+    ],
+    "descripcion": "Pequeñas papas chauchas doradas con hierbas y mantequilla, suaves en el centro y llenas de sabor casero.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "ffc84e4e-438e-448c-a06b-9141c15a6122",
+    "slug": "papas-fritas-350-g",
+    "nombre": "Papas Fritas 350 g",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "acompanamientos",
+      "promos-2x1"
+    ],
+    "descripcion": "Generosa porción de papas recién fritas, doradas, humeantes y crujientes hasta el último bocado.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "e3cafea7-757c-4ab2-be89-3b63dea5f455",
+    "slug": "papas-importadas",
+    "nombre": "Papas Importadas",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "acompanamientos"
+    ],
+    "descripcion": "Papas de corte uniforme, doradas y ultracrujientes, servidas calientes con una pizca de sal.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "b933a44b-3489-4c4e-a49c-6b93ab21b5af",
+    "slug": "parrillada-pareja",
+    "nombre": "Parrillada Pareja",
+    "precio": "23.99",
+    "precio_promo": "",
+    "categorias": [
+      "parrilladas"
+    ],
+    "descripcion": "Costilla doble, lomo, pollo, chuleta y chorizo con ese inconfundible beso del carbón. Hecha para compartir y repetir.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "e8ca6392-630e-4f9e-b91b-d23c5f03c65b",
+    "slug": "parrillada-personal",
+    "nombre": "Parrillada Personal",
+    "precio": "12.99",
+    "precio_promo": "",
+    "categorias": [
+      "parrilladas"
+    ],
+    "descripcion": "Lomo, pollo, chuleta y chorizo recién salidos del fuego: cuatro antojos de parrilla reunidos en una bandeja personal abundante.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "2694e58b-e1bd-4fca-a3eb-ab50a5c5e51d",
+    "slug": "parrillada-zuba-recargada",
+    "nombre": "Parrillada Zuba Recargada",
+    "precio": "39.99",
+    "precio_promo": "",
+    "categorias": [
+      "parrilladas"
+    ],
+    "descripcion": "El festín de la casa: costilla, lomo, pollo, chuleta y chorizo en porciones generosas, humeantes y cargadas de sabor a brasa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "ffc87230-6215-4892-9b4f-34d868de62fd",
+    "slug": "picana",
+    "nombre": "Picaña",
+    "precio": "11.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Picaña con capa dorada y centro tierno, cortada contra la fibra para disfrutar toda su jugosidad y carácter de parrilla.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Acompañamiento",
+        "options": [
+          "Arroz moro",
+          "Yuca",
+          "Papas fritas"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "05a830da-aef2-43c1-8932-92e32534e65c",
+    "slug": "picana-brangus",
+    "nombre": "Picaña Brangus",
+    "precio": "14.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Picaña Brangus de textura sedosa y sabor intenso, con grasa caramelizada al fuego y un interior que rebosa jugos.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Acompañamiento",
+        "options": [
+          "Arroz moro",
+          "Yuca",
+          "Papas fritas"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "4050c06e-9f05-44fe-9ce6-da4f21e6bd53",
+    "slug": "pina-colada",
+    "nombre": "Piña Colada",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Piña tropical y coco cremoso batidos con hielo: fresca, suave y deliciosamente vacacional.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "864fd735-c0da-4622-9b69-fb0c0f94467c",
+    "slug": "pony-malta",
+    "nombre": "Pony Malta",
+    "precio": "1.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Bebida de malta fría, dulce y reconfortante, con su inconfundible sabor tostado.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "9a3e6959-175e-4512-9fbb-8bf85f1225ce",
+    "slug": "porcion-de-2-chorizos",
+    "nombre": "Porción de 2 Chorizos",
+    "precio": "2.99",
+    "precio_promo": "",
+    "categorias": [
+      "acompanamientos"
+    ],
+    "descripcion": "Dos chorizos jugosos, dorados al carbón hasta lograr piel crujiente y un corazón intensamente especiado.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "7ce4a3bd-a5ea-48ca-a21c-988d2fbced28",
+    "slug": "promo-1010",
+    "nombre": "Promo 10+10",
+    "precio": "12.99",
+    "precio_promo": "",
+    "categorias": [
+      "promos-2x1"
+    ],
+    "descripcion": "Martes y jueves saben mejor: pide diez alitas y recibe veinte, con dos salsas que hacen cada bocado distinto. No incluye papas.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Salsas (elige 2)",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Mora",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "17630c16-e3fa-48fe-bdd7-b8eff24c92fd",
+    "slug": "promo-1515",
+    "nombre": "Promo 15+15",
+    "precio": "18.99",
+    "precio_promo": "",
+    "categorias": [
+      "promos-2x1"
+    ],
+    "descripcion": "Treinta alitas por el precio de quince, recién bañadas en tres salsas a elección. El plan perfecto para compartir martes y jueves.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Salsas (elige 3)",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Mora",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "7919433b-8b25-4b98-9cf1-3e5d8247571d",
+    "slug": "promo-2424",
+    "nombre": "Promo 24+24",
+    "precio": "29.99",
+    "precio_promo": "",
+    "categorias": [
+      "promos-2x1"
+    ],
+    "descripcion": "Una bandeja imponente de cuarenta y ocho alitas, cuatro salsas y puro sabor para la mesa completa. Disponible martes y jueves.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Salsas (elige 4)",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Mora",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "c3871f65-47e3-45d7-9699-0dc272f14c25",
+    "slug": "ribeye",
+    "nombre": "Ribeye",
+    "precio": "11.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Ribeye intensamente marmoleado, sellado sobre brasas para que cada fibra conserve mantequilla natural, jugos y sabor profundo.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Acompañamiento",
+        "options": [
+          "Arroz moro",
+          "Yuca",
+          "Papas fritas"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "97c88db3-22e2-40b5-8955-b2a89ab736f5",
+    "slug": "salchiburger",
+    "nombre": "Salchiburger",
+    "precio": "6.00",
+    "precio_promo": "",
+    "categorias": [
+      "burgers"
+    ],
+    "descripcion": "Una burger sin timidez: carne jugosa, queso fundido, tocino, vegetales y salchicha dorada para duplicar el sabor.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "7e976780-a961-4dab-b7ec-a06421daf4fe",
+    "slug": "salsa-de-champinones",
+    "nombre": "Salsa de Champiñones",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "acompanamientos"
+    ],
+    "descripcion": "Salsa cremosa con champiñones salteados y fondo de carne, sedosa y perfecta para bañar cada corte.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "be83611f-3c34-4c69-9864-3a34b22f61c6",
+    "slug": "saltamontes",
+    "nombre": "Saltamontes",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Cóctel de copa, cremoso y refrescante, con notas de menta y cacao que dejan un final elegante.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "9e63ef32-28ab-4ce0-a043-1aa7dd373143",
+    "slug": "t-bone-steak",
+    "nombre": "T-Bone Steak",
+    "precio": "14.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Dos texturas en un solo corte: lomo y filete unidos por el hueso, sellados al carbón para un sabor robusto y jugoso.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "51f7c89d-b308-427a-9e2b-736e9e963fc8",
+    "slug": "tequila-sunrise",
+    "nombre": "Tequila Sunrise",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Tequila y naranja con un amanecer de granadina: frutal, brillante y tan espectacular como sabe.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "89b87a53-4435-417d-9468-4d46924bcdab",
+    "slug": "tinto-de-verano",
+    "nombre": "Tinto de Verano",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Vino tinto, cítricos y burbujas servidos bien fríos: ligero, frutal y perfecto para refrescar la tarde.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "e2663b39-fe9d-40ff-8f55-9f858172745c",
+    "slug": "tomahawk",
+    "nombre": "Tomahawk",
+    "precio": "19.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "El rey de la parrilla: tomahawk de gran presencia, costra ahumada, jugos concentrados y ese aroma a brasa que conquista antes del primer corte.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Acompañamiento",
+        "options": [
+          "Arroz moro",
+          "Yuca",
+          "Papas fritas"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "0cf15ebf-9ad0-4bf2-b2b3-a70a261900db",
+    "slug": "vaso-de-jugo",
+    "nombre": "Vaso de Jugo",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Jugo de fruta preparado al momento, fresco, fragante y rebosante de sabor natural.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Maracuyá",
+          "Frutilla",
+          "Mora",
+          "Mango",
+          "Guanábana",
+          "Piña",
+          "Marilyn Monroe",
+          "Limonada",
+          "Limonada rosada",
+          "Mix Zuba"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "2aa359f3-c33a-4637-93c1-d59c3f41cab1",
+    "slug": "zuba-marinera",
+    "nombre": "Zuba Marinera",
+    "precio": "8.00",
+    "precio_promo": "",
+    "categorias": [
+      "burgers"
+    ],
+    "descripcion": "Nuestra burger más atrevida: carne a la parrilla, queso, tocino y camarones salteados en mantequilla que aportan un final marino irresistible.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  }
+]

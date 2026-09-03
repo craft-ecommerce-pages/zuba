@@ -218,7 +218,9 @@
     ],
     "descripcion": "Limón fresco macerado, dulzor equilibrado y hielo abundante en un cóctel brasileño vibrante. Promo 4 por $10.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/caipirinha/images/caipirinha-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -649,7 +651,9 @@
     ],
     "descripcion": "Ron, cola helada y un golpe de limón: burbujeante, aromático y tan clásico como irresistible.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/cuba-libre/images/cuba-libre-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1091,7 +1095,9 @@
     ],
     "descripcion": "Refrescante mezcla de hierbabuena, cítrico y hielo triturado, preparada al momento. También disponible en promo 3 por $10.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/mojito/images/mojito-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
@@ -1324,7 +1330,9 @@
     ],
     "descripcion": "Dos chorizos jugosos, dorados al carbón hasta lograr piel crujiente y un corazón intensamente especiado.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/porcion-de-2-chorizos/images/porcion-de-2-chorizos-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1484,7 +1492,9 @@
     ],
     "descripcion": "Salsa cremosa con champiñones salteados y fondo de carne, sedosa y perfecta para bañar cada corte.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/salsa-de-champinones/images/salsa-de-champinones-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },

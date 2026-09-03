@@ -570,7 +570,9 @@
     ],
     "descripcion": "Costillas suaves lacadas con BBQ de notas dulces y ahumadas, caramelizadas al fuego hasta lograr bordes pegajosos y deliciosos.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/costillas-bbq/images/costillas-bbq-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -585,7 +587,9 @@
     ],
     "descripcion": "Costillas jugosas bañadas en una salsa criolla de sabor casero, vibrante y reconfortante, terminadas a la parrilla.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/costillas-criollas/images/costillas-criollas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -600,7 +604,9 @@
     ],
     "descripcion": "Doble porción de costillas carnosas y brillantes, lentamente cocidas para una ternura que se deshace en la boca.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/costillas-dobles/images/costillas-dobles-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -615,7 +621,9 @@
     ],
     "descripcion": "Costillas tiernas con sazón ranchera, especias cálidas y un toque ahumado que despierta el apetito desde el primer aroma.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/costillas-rancheras/images/costillas-rancheras-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -757,7 +765,9 @@
     ],
     "descripcion": "Medallón alto y extraordinariamente tierno, con costra dorada, centro jugoso y una elegante salsa de champiñones.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/filet-mignon/images/filet-mignon-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -957,7 +967,9 @@
     ],
     "descripcion": "Lomo fino de textura delicada, sellado al punto para conservar sus jugos y terminado con mantequilla aromática.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/lomo-fino/images/lomo-fino-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -989,7 +1001,9 @@
     ],
     "descripcion": "Matambre marinado, dorado lentamente a la parrilla hasta quedar tierno, sabroso y con irresistibles bordes tostados.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/matambre/images/matambre-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1135,7 +1149,9 @@
     ],
     "descripcion": "Mollejitas doradas y crujientes por fuera, suaves por dentro, servidas chisporroteando con limón y chimichurri fresco.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/mollejitas/images/mollejitas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1548,7 +1564,9 @@
     ],
     "descripcion": "Dos texturas en un solo corte: lomo y filete unidos por el hueso, sellados al carbón para un sabor robusto y jugoso.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/t-bone-steak/images/t-bone-steak-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },

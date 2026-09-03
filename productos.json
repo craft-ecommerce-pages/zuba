@@ -664,7 +664,9 @@
     ],
     "descripcion": "Ron y cítricos agitados con hielo hasta lograr una textura helada, limpia y deliciosamente refrescante.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/daiquiri/images/daiquiri-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -954,7 +956,9 @@
     ],
     "descripcion": "Tequila, limón recién exprimido y borde de sal en el balance perfecto entre cítrico, fresco y vibrante.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/margarita/images/margarita-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1128,7 +1132,9 @@
     ],
     "descripcion": "Cóctel cremoso, seductor y aterciopelado, con notas dulces que se deslizan suavemente por el paladar.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/orgasmo/images/orgasmo-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1284,7 +1290,9 @@
     ],
     "descripcion": "Piña tropical y coco cremoso batidos con hielo: fresca, suave y deliciosamente vacacional.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/pina-colada/images/pina-colada-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1491,7 +1499,9 @@
     ],
     "descripcion": "Cóctel de copa, cremoso y refrescante, con notas de menta y cacao que dejan un final elegante.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/saltamontes/images/saltamontes-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },

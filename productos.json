@@ -27,7 +27,9 @@
     ],
     "descripcion": "Arroz moro humeante, sabroso y reconfortante, con granos sueltos y el toque criollo ideal para acompañar la parrilla.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/arroz-moro/images/arroz-moro-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -685,7 +687,9 @@
     ],
     "descripcion": "Yuca dorada en bastones: crocante por fuera, cremosa por dentro y perfecta para mojar en tu salsa favorita.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/deditos-de-yuca/images/deditos-de-yuca-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -700,7 +704,9 @@
     ],
     "descripcion": "Pollo al chimichurri, tierno y recién marcado, sobre una cama crujiente de lechuga, tomate, pepino y cebolla fresca.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/ensalada-con-pollo/images/ensalada-con-pollo-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -715,7 +721,9 @@
     ],
     "descripcion": "Lechuga crujiente, tomates cherry dulces, pepino fresco y cebolla perla con un aliño ligero que realza cada vegetal.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/ensalada-fresca/images/ensalada-fresca-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1155,7 +1163,9 @@
     ],
     "descripcion": "Pequeñas papas chauchas doradas con hierbas y mantequilla, suaves en el centro y llenas de sabor casero.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/papas-chauchas/images/papas-chauchas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1186,7 +1196,9 @@
     ],
     "descripcion": "Papas de corte uniforme, doradas y ultracrujientes, servidas calientes con una pizca de sal.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/papas-importadas/images/papas-importadas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },

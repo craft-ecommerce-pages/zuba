@@ -799,7 +799,9 @@
     ],
     "descripcion": "Gaseosa personal servida helada, burbujeante y lista para refrescar cada bocado.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/gaseosa-personal/images/gaseosa-personal-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1006,7 +1008,9 @@
     ],
     "descripcion": "Cerveza helada con limón, sal y ese toque especiado que despierta el paladar y pide otro sorbo.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/michelada-clasica/images/michelada-clasica-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1021,7 +1025,9 @@
     ],
     "descripcion": "Corona bien fría convertida en una michelada chispeante, cítrica y atrevida, con limón o maracuyá.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/michelada-corona/images/michelada-corona-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",

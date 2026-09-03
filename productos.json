@@ -10,7 +10,9 @@
     ],
     "descripcion": "Agua pura y bien fría, la pausa refrescante ideal entre sabores intensos.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/agua-botella/images/agua-botella-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1039,7 +1041,9 @@
     ],
     "descripcion": "Batido espeso, frío y cremoso, coronado para convertir cada sorbo en postre.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/milkshake/images/milkshake-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",

@@ -267,7 +267,82 @@
     ],
     "variantes": [
       {
-        "name": "Salsas (elige 4)",
+        "name": "Salsa 1",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 3",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 4",
         "options": [
           "Maracuyá",
           "Parmesano",
@@ -310,7 +385,107 @@
     ],
     "variantes": [
       {
-        "name": "Salsas (elige 5)",
+        "name": "Salsa 1",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 3",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 4",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 5",
         "options": [
           "Maracuyá",
           "Parmesano",
@@ -353,7 +528,57 @@
     ],
     "variantes": [
       {
-        "name": "Salsas (elige 3)",
+        "name": "Salsa 1",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 3",
         "options": [
           "Maracuyá",
           "Parmesano",
@@ -396,7 +621,7 @@
     ],
     "variantes": [
       {
-        "name": "Salsas (elige 1)",
+        "name": "Salsa 1",
         "options": [
           "Maracuyá",
           "Parmesano",
@@ -439,7 +664,32 @@
     ],
     "variantes": [
       {
-        "name": "Salsas (elige 2)",
+        "name": "Salsa 1",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
         "options": [
           "Maracuyá",
           "Parmesano",
@@ -1358,7 +1608,32 @@
     ],
     "variantes": [
       {
-        "name": "Salsas (elige 2)",
+        "name": "Salsa 1",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
         "options": [
           "Maracuyá",
           "Parmesano",
@@ -1402,7 +1677,57 @@
     ],
     "variantes": [
       {
-        "name": "Salsas (elige 3)",
+        "name": "Salsa 1",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 3",
         "options": [
           "Maracuyá",
           "Parmesano",
@@ -1446,7 +1771,82 @@
     ],
     "variantes": [
       {
-        "name": "Salsas (elige 4)",
+        "name": "Salsa 1",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 3",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 4",
         "options": [
           "Maracuyá",
           "Parmesano",

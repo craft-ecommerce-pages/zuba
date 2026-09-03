@@ -1,0 +1,25 @@
+{
+  "badge_category": "alitas",
+  "categories": {
+    "acompanamientos": "🍟 Acompañamientos",
+    "alitas": "🍗 Alitas",
+    "bebidas": "🥤 Bebidas",
+    "burgers": "🍔 Burgers",
+    "cervezas-micheladas": "🍺 Cervezas \u0026 Micheladas",
+    "cocteles": "🍹 Cócteles",
+    "cortes-premium": "🥩 Cortes Premium",
+    "ensaladas": "🥗 Ensaladas",
+    "parrilladas": "🔥 Parrilladas",
+    "promos-2x1": "🔥 Alitas 2x1"
+  },
+  "currency": "$",
+  "hero_title": "Fuego, sabor y \u003cspan class=\"hl\"\u003emomentos especiales\u003c/span\u003e",
+  "location_intro": "Calle Venezuela y Fernando Rodríguez, Santo Domingo, Ecuador",
+  "logo": "logo.png",
+  "site_title": "Zuba – Alitas, Cortes \u0026 Parrilla | Santo Domingo",
+  "store_name": "Zuba",
+  "theme_accent": "#FFC229",
+  "theme_primary": "#F05A1A",
+  "whatsapp_message": "¡Hola Zuba! 🔥 Quiero ordenar:",
+  "whatsapp_number": "593963450578"
+}

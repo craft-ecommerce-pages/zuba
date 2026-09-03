@@ -284,7 +284,9 @@
     ],
     "descripcion": "Chuleta gruesa, jugosa y bien sazonada, con marcas de parrilla y una costra dorada que concentra todo el sabor.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/chuleta/images/chuleta-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -738,7 +740,9 @@
     ],
     "descripcion": "Pechuga de pollo tierna y jugosa, marinada con hierbas y marcada sobre brasas para un aroma ahumado irresistible.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/filete-de-pollo/images/filete-de-pollo-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1213,7 +1217,9 @@
     ],
     "descripcion": "Costilla doble, lomo, pollo, chuleta y chorizo con ese inconfundible beso del carbón. Hecha para compartir y repetir.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/parrillada-pareja/images/parrillada-pareja-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1228,7 +1234,9 @@
     ],
     "descripcion": "Lomo, pollo, chuleta y chorizo recién salidos del fuego: cuatro antojos de parrilla reunidos en una bandeja personal abundante.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/parrillada-personal/images/parrillada-personal-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1243,7 +1251,9 @@
     ],
     "descripcion": "El festín de la casa: costilla, lomo, pollo, chuleta y chorizo en porciones generosas, humeantes y cargadas de sabor a brasa.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/parrillada-zuba-recargada/images/parrillada-zuba-recargada-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },

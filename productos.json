@@ -746,7 +746,9 @@
     ],
     "descripcion": "Té frío y ligero con notas frutales, servido helado para refrescar sin prisa.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/fuze-tea/images/fuze-tea-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1273,7 +1275,9 @@
     ],
     "descripcion": "Bebida de malta fría, dulce y reconfortante, con su inconfundible sabor tostado.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/pony-malta/images/pony-malta-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },

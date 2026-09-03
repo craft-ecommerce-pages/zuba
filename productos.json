@@ -55,7 +55,9 @@
     ],
     "descripcion": "Fruta y cremosidad batidas hasta quedar sedosas, frías y deliciosamente abundantes.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/batido/images/batido-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
@@ -958,7 +960,9 @@
     ],
     "descripcion": "Media jarra de jugo natural recién preparado, intensamente frutal y perfecta para compartir.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/media-jarra-de-jugo/images/media-jarra-de-jugo-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
@@ -1540,7 +1544,9 @@
     ],
     "descripcion": "Jugo de fruta preparado al momento, fresco, fragante y rebosante de sabor natural.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/vaso-de-jugo/images/vaso-de-jugo-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",

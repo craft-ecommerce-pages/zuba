@@ -763,9 +763,23 @@
         "options": [
           "Arroz moro",
           "Yuca",
-          "Papas fritas"
+          "Papas fritas",
+          "Salsa de Champiñones +$2"
         ],
         "type": "option"
+      },
+      {
+        "name": "Tamaño",
+        "options": [
+          {
+            "label": "Normal ($9.00)",
+            "price": 9
+          },
+          {
+            "label": "Dobles ($13.00)",
+            "price": 13
+          }
+        ]
       }
     ],
     "sku": ""

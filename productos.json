@@ -233,7 +233,9 @@
     ],
     "descripcion": "Cerveza personal bien fría, de espuma cremosa y final refrescante. Aprovecha cuatro por $10.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/cerveza-personal/images/cerveza-personal-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -513,7 +515,9 @@
     ],
     "descripcion": "Vino frío con frutas jugosas y notas cítricas, servido con hielo para un sorbo fresco y lleno de color.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/copa-de-sangria/images/copa-de-sangria-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -899,7 +903,9 @@
     ],
     "descripcion": "Jarra generosa de vino, cítricos y frutas frescas; vibrante, refrescante y hecha para brindar en compañía.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/jarra-de-sangria/images/jarra-de-sangria-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },

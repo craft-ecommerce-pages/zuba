@@ -849,7 +849,9 @@
     ],
     "descripcion": "Jarra generosa de fruta fresca, vibrante y helada, hecha para llenar los vasos una y otra vez.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/jarra-de-jugo/images/jarra-de-jugo-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",

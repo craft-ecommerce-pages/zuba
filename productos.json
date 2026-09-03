@@ -532,7 +532,9 @@
     ],
     "descripcion": "Vino caliente infusionado con canela, naranja y especias; una copa aromática que abriga desde el primer sorbo.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/copa-de-vino-hervido/images/copa-de-vino-hervido-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -920,7 +922,9 @@
     ],
     "descripcion": "Una jarra humeante de vino especiado con cítricos y canela para compartir lentamente y disfrutar cada aroma.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/jarra-de-vino-hervido/images/jarra-de-vino-hervido-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1517,7 +1521,9 @@
     ],
     "descripcion": "Tequila y naranja con un amanecer de granadina: frutal, brillante y tan espectacular como sabe.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/tequila-sunrise/images/tequila-sunrise-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1532,7 +1538,9 @@
     ],
     "descripcion": "Vino tinto, cítricos y burbujas servidos bien fríos: ligero, frutal y perfecto para refrescar la tarde.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/tinto-de-verano/images/tinto-de-verano-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },

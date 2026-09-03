@@ -1,2 +1,71 @@
-/* CSS bespoke de Las Hamburguesas del Gordo Paul.
-   El esqueleto viene del motor; la paleta de config.theme. Aquí solo overrides a mano. */
+/* Zuba — brasa contemporánea. El motor conserva carrito, variantes y sincronización;
+   esta capa traduce el fuego tridimensional del logo a una experiencia propia. */
+:root{
+  --primary:#f05a1a;
+  --accent:#ffc229;
+  --bg:#100806;
+  --bg-2:#1a0c08;
+  --surface:#21110c;
+  --surface-2:#2d1710;
+  --border:rgba(255,194,41,.18);
+  --border-2:rgba(240,90,26,.46);
+  --text:#fff7e9;
+  --text-soft:#ead4bd;
+  --text-dim:#ae8b72;
+  --radius:18px;
+}
+
+body{
+  background:
+    radial-gradient(900px 520px at 8% -5%,rgba(240,90,26,.27),transparent 60%),
+    radial-gradient(780px 500px at 94% 8%,rgba(255,194,41,.12),transparent 62%),
+    linear-gradient(180deg,#140806 0%,#0d0705 44%,#120906 100%);
+  font-family:"Manrope",system-ui,sans-serif;
+}
+
+body:before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;opacity:.16;
+  background-image:linear-gradient(120deg,transparent 46%,rgba(255,255,255,.05) 47%,transparent 48%);
+  background-size:34px 34px}
+
+.hero h1,.brand-name,.cat-header,.card-name,.card-price,.cart-total-value,
+.modal-detail .price,.section-title{
+  font-family:"Bebas Neue",Impact,sans-serif;
+  letter-spacing:.65px;
+}
+
+.hero{min-height:310px;border-bottom:1px solid var(--border);position:relative;overflow:hidden;
+  background:linear-gradient(180deg,rgba(16,8,6,.2),rgba(16,8,6,.94))}
+.hero:after{content:"Z";position:absolute;right:-28px;bottom:-132px;font-family:"Bebas Neue";
+  font-size:390px;line-height:1;color:transparent;-webkit-text-stroke:1px rgba(255,194,41,.11);pointer-events:none}
+.hero-top,.hero h1,.hero .notice{position:relative;z-index:1}
+.brand{gap:2px}.brand-logo{filter:drop-shadow(0 16px 24px rgba(0,0,0,.5))}
+.brand-sub{margin-top:-12px;color:var(--accent);font-size:11px;font-weight:800;letter-spacing:1.8px;text-transform:uppercase}
+.hero h1{font-size:clamp(40px,8.5vw,76px);line-height:.9;text-transform:uppercase;text-shadow:0 12px 40px rgba(0,0,0,.55)}
+.hero h1 .hl{background:linear-gradient(100deg,#ffd65c,#ff9f1c 48%,#f04422 92%);
+  -webkit-background-clip:text;background-clip:text;color:transparent}
+
+.sticky-bar{background:rgba(16,8,6,.88);border-bottom:1px solid var(--border);backdrop-filter:blur(18px)}
+.search-box input{background:rgba(45,23,16,.72);border-color:var(--border);box-shadow:inset 0 1px rgba(255,255,255,.03)}
+.cat-chip{width:60px}.cat-chip .ic{width:48px;height:48px;border-radius:15px;font-size:21px;
+  background:linear-gradient(145deg,var(--surface-2),#1a0c08);border:1px solid var(--border)}
+.cat-chip.active .ic{background:linear-gradient(135deg,var(--primary),#d32f16);box-shadow:0 8px 24px rgba(240,90,26,.34)}
+.cat-header{color:var(--accent);text-transform:uppercase;border-left:4px solid var(--primary);padding-left:11px}
+
+.card{background:linear-gradient(155deg,#25130d,#1b0e0a);border:1px solid var(--border);border-radius:var(--radius);
+  box-shadow:0 14px 36px rgba(0,0,0,.22);overflow:hidden}
+.card:hover{border-color:var(--border-2);transform:translateY(-2px);box-shadow:0 18px 42px rgba(93,25,8,.38)}
+.card-img:after{content:"";position:absolute;inset:auto 0 0;height:38%;pointer-events:none;background:linear-gradient(transparent,rgba(20,8,5,.42))}
+.card-name{text-transform:uppercase;font-size:22px;line-height:1}
+.card-price,.cart-total-value,.modal-detail .price{color:var(--accent);text-shadow:0 4px 18px rgba(255,194,41,.18)}
+.card-badge{background:linear-gradient(105deg,#f04422,var(--primary),#ff9418);color:white;font-weight:800}
+
+.btn-add,.btn-next,.btn-whatsapp,.btn-checkout{background:linear-gradient(105deg,#f04422,var(--primary) 55%,#ff9418)!important;
+  border:0;color:#fff;font-weight:800;box-shadow:0 10px 26px rgba(240,90,26,.32)}
+.btn-add:hover,.btn-next:hover,.btn-whatsapp:hover{filter:brightness(1.09)}
+.variant-option.selected,.variant-option:has(input:checked){border-color:var(--primary);background:rgba(240,90,26,.17);color:var(--text)}
+.wa-float{background:linear-gradient(135deg,#25d366,#128c7e);box-shadow:0 12px 30px rgba(0,0,0,.4)}
+.bottom-nav{background:rgba(20,9,6,.94);border-top-color:var(--border);backdrop-filter:blur(18px)}
+.modal,.cart-drawer{background:linear-gradient(165deg,var(--surface-2),var(--bg));border-color:var(--border)}
+footer{border-top:1px solid var(--border);background:rgba(10,5,4,.6)}
+
+@media(max-width:560px){.hero{min-height:270px}.hero:after{font-size:300px;bottom:-104px}.hero h1{font-size:42px}.brand-logo{max-height:110px}}

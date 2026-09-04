@@ -1994,6 +1994,73 @@
     "sku": "2"
   },
   {
+    "id": "7a227538-96d2-42e3-985a-81781986f86d",
+    "slug": "promo-1010",
+    "nombre": "Promo 10+10",
+    "tipo": "promocion",
+    "precio": "13.00",
+    "precio_promo": "",
+    "categorias": [
+      "promos-2x1"
+    ],
+    "descripcion": "20 alitas, 2 salsas y vegetales. No incluye papas.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Salsa 1",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": "4"
+  },
+  {
     "id": "17630c16-e3fa-48fe-bdd7-b8eff24c92fd",
     "slug": "promo-1515",
     "nombre": "Promo 15+15",
@@ -2086,6 +2153,215 @@
       }
     ],
     "sku": "2"
+  },
+  {
+    "id": "717d6068-0975-4a8d-a6cc-64f7af66bade",
+    "slug": "promo-1515",
+    "nombre": "Promo 15+15",
+    "tipo": "promocion",
+    "precio": "19.00",
+    "precio_promo": "",
+    "categorias": [
+      "promos-2x1"
+    ],
+    "descripcion": "30 alitas, 3 salsas y vegetales. No incluye papas.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Salsa 1",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 3",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": "4"
+  },
+  {
+    "id": "0a8d16f2-1340-474b-9223-4336918fa53c",
+    "slug": "promo-2424",
+    "nombre": "Promo 24+24",
+    "tipo": "promocion",
+    "precio": "30.00",
+    "precio_promo": "",
+    "categorias": [
+      "promos-2x1"
+    ],
+    "descripcion": "48 alitas, 4 salsas y vegetales. No incluye papas.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Salsa 1",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 3",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 4",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": "4"
   },
   {
     "id": "7919433b-8b25-4b98-9cf1-3e5d8247571d",

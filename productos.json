@@ -140,6 +140,23 @@
     "sku": ""
   },
   {
+    "id": "9e324b83-5994-493b-a482-12a2cbf106a8",
+    "slug": "bife-de-angus",
+    "nombre": "Bife de Angus",
+    "precio": "24.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Corte Angus de gran marmoleo, sellado al carbón para formar una costra irresistible y conservar un centro jugoso, tierno y lleno de sabor.",
+    "stock": null,
+    "imagenes": [
+      "/producto/bife-de-angus/images/bife-de-angus-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "072df6a9-074e-4ea9-9abd-5b463c73380c",
     "slug": "boneless",
     "nombre": "Boneless",
@@ -220,6 +237,23 @@
     "stock": null,
     "imagenes": [
       "/producto/burger-a-lo-pobre/images/burger-a-lo-pobre-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "c59dc9e8-e11e-46b4-8e5b-29600691a907",
+    "slug": "caipirinha",
+    "nombre": "Caipirinha",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "El clásico brasileño preparado con lima fresca machacada, hielo y cachaça: cítrico, vibrante y refrescante, con el equilibrio justo entre dulzor y carácter.",
+    "stock": null,
+    "imagenes": [
+      "/producto/caipirinha/images/caipirinha-1.webp"
     ],
     "variantes": [],
     "sku": ""
@@ -908,6 +942,23 @@
     "sku": ""
   },
   {
+    "id": "f1afb5a5-6677-461b-92dc-48f1d15ba105",
+    "slug": "costillas-dobles",
+    "nombre": "Costillas Dobles",
+    "precio": "12.99",
+    "precio_promo": "",
+    "categorias": [
+      "cortes-premium"
+    ],
+    "descripcion": "Doble porción de costillas cocidas lentamente, lacadas con salsa y terminadas a la parrilla hasta quedar ahumadas, caramelizadas y tan tiernas que se desprenden del hueso.",
+    "stock": null,
+    "imagenes": [
+      "/producto/costillas-dobles/images/costillas-dobles-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "b989799d-c2ea-47b4-b041-eb5669d09a0d",
     "slug": "costillas-rancheras",
     "nombre": "Costillas Rancheras",
@@ -1559,6 +1610,23 @@
     "sku": ""
   },
   {
+    "id": "1a3a6e16-355d-4f9b-9c9d-57bda84807d3",
+    "slug": "papas-importadas",
+    "nombre": "Papas Importadas",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "acompanamientos"
+    ],
+    "descripcion": "Papas de corte uniforme, doradas hasta lograr un exterior ultracrujiente y un corazón suave; el acompañamiento perfecto para compartir o disfrutar sin ayuda.",
+    "stock": null,
+    "imagenes": [
+      "/producto/papas-importadas/images/papas-importadas-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "b933a44b-3489-4c4e-a49c-6b93ab21b5af",
     "slug": "parrillada-pareja",
     "nombre": "Parrillada Pareja",
@@ -2051,6 +2119,23 @@
     "sku": ""
   },
   {
+    "id": "51dae9f2-ff05-4443-bdaa-cca948da0a08",
+    "slug": "salsa-champinones",
+    "nombre": "Salsa Champiñones",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "acompanamientos"
+    ],
+    "descripcion": "Salsa cremosa de champiñones salteados, sedosa y profundamente sabrosa; el toque cálido que convierte cada bocado de carne o papas en puro placer.",
+    "stock": null,
+    "imagenes": [
+      "/producto/salsa-champinones/images/salsa-champinones-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "be83611f-3c34-4c69-9864-3a34b22f61c6",
     "slug": "saltamontes",
     "nombre": "Saltamontes",
@@ -2116,6 +2201,23 @@
     "stock": null,
     "imagenes": [
       "/producto/tequila-sunrise/images/tequila-sunrise-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "c3706018-0ef0-41a4-96b4-2bb471ddb002",
+    "slug": "tinto-de-verano",
+    "nombre": "Tinto de Verano",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Vino tinto servido bien frío con notas cítricas y burbujas ligeras; una copa fresca, frutal y desenfadada para acompañar la parrilla.",
+    "stock": null,
+    "imagenes": [
+      "/producto/tinto-de-verano/images/tinto-de-verano-1.webp"
     ],
     "variantes": [],
     "sku": ""

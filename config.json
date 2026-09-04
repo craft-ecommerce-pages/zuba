@@ -26,10 +26,78 @@
     "cervezas-micheladas",
     "bebidas"
   ],
+  "cross_sell": {
+    "categories": [
+      "acompanamientos",
+      "bebidas"
+    ],
+    "max": 6,
+    "title": "¿Algo para acompañar?"
+  },
   "currency": "$",
   "hero_title": "Fuego, sabor y \u003cspan class=\"hl\"\u003emomentos especiales\u003c/span\u003e",
+  "hours": {
+    "closed_msg": "Por el momento estamos cerrados, puedes tener listo tu pedido y a penas abramos te lo enviamos",
+    "tz": "America/Guayaquil",
+    "weekly": {
+      "0": [
+        [
+          "14:00",
+          "22:45"
+        ]
+      ],
+      "1": [
+        [
+          "14:00",
+          "22:45"
+        ]
+      ],
+      "2": [
+        [
+          "14:00",
+          "22:45"
+        ]
+      ],
+      "3": [
+        [
+          "14:00",
+          "22:45"
+        ]
+      ],
+      "4": [
+        [
+          "14:00",
+          "22:45"
+        ]
+      ],
+      "5": [
+        [
+          "14:00",
+          "22:45"
+        ]
+      ],
+      "6": [
+        [
+          "14:00",
+          "22:45"
+        ]
+      ]
+    }
+  },
+  "location": {
+    "map_embed": "",
+    "sedes": [],
+    "social": {},
+    "telefono_principal": ""
+  },
   "location_intro": "Calle Venezuela y Fernando Rodríguez, Santo Domingo, Ecuador",
   "logo": "logo.png",
+  "packaging": {
+    "cost": 0.5,
+    "enabled": true,
+    "label": "Empaque",
+    "mode": "per_order"
+  },
   "site_title": "Zuba – Alitas, Cortes \u0026 Parrilla | Santo Domingo",
   "store_name": "Zuba",
   "theme_accent": "#FFC229",

@@ -1692,8 +1692,7 @@
     "precio": "3.50",
     "precio_promo": "",
     "categorias": [
-      "acompanamientos",
-      "promos-2x1"
+      "acompanamientos"
     ],
     "descripcion": "Porción generosa de papas recién fritas, doradas, humeantes y crujientes hasta el último bocado.",
     "stock": null,
@@ -2772,7 +2771,7 @@
     "precio": "10.00",
     "precio_promo": "",
     "categorias": [
-      "promos-2x1"
+      "cocteles"
     ],
     "descripcion": "3 Mojitos por $10: hierbabuena, cítrico y hielo triturado, para compartir el frescor.",
     "stock": null,

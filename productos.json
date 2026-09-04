@@ -140,6 +140,74 @@
     "sku": ""
   },
   {
+    "id": "072df6a9-074e-4ea9-9abd-5b463c73380c",
+    "slug": "boneless",
+    "nombre": "Boneless",
+    "precio": "9.99",
+    "precio_promo": "",
+    "categorias": [
+      "alitas"
+    ],
+    "descripcion": "Ocho tiernos bocados de pollo sin hueso, crujientes por fuera y jugosos por dentro, bañados en la salsa que elijas y acompañados de papas doradas.",
+    "stock": null,
+    "imagenes": [
+      "/producto/boneless/images/boneless-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Salsa 1",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
+        "options": [
+          "Maracuyá",
+          "Parmesano",
+          "Tamarindo",
+          "BBQ",
+          "BBQ Piña",
+          "BBQ Picante",
+          "Honey Mustard",
+          "Honey Mustard Hot",
+          "Tamarindo Hot",
+          "Mora",
+          "Mora Hot",
+          "Hawaiana",
+          "Poco Picante",
+          "Picante",
+          "Súper Picante",
+          "Acevichada premium (+$2)",
+          "Champiñones premium (+$2)",
+          "Jack Daniels premium (+$2)",
+          "Carbonara premium (+$2)"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
     "id": "607c3b49-1e67-495c-8360-ef66105a09af",
     "slug": "burger-a-lo-pobre",
     "nombre": "Burger a lo Pobre",

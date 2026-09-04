@@ -1734,7 +1734,17 @@
     "imagenes": [
       "/producto/parrillada-pareja/images/parrillada-pareja-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Elige tu guarnición",
+        "options": [
+          "Yucas Fritas",
+          "Papas Fritas",
+          "Arroz Moro"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -1751,7 +1761,17 @@
     "imagenes": [
       "/producto/parrillada-personal/images/parrillada-personal-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Elige tu guarnición",
+        "options": [
+          "Yucas Fritas",
+          "Papas Fritas",
+          "Arroz Moro"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -1768,7 +1788,17 @@
     "imagenes": [
       "/producto/parrillada-zuba-recargada/images/parrillada-zuba-recargada-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Elige tu guarnición",
+        "options": [
+          "Yucas Fritas",
+          "Papas Fritas",
+          "Arroz Moro"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {

@@ -2204,7 +2204,28 @@
     "imagenes": [
       "/producto/mojito-3x2/images/mojito-3x2-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Elige tus 3 mojitos",
+        "options": [
+          {
+            "label": "Frutos Rojos ($5.00)",
+            "price": 5
+          },
+          {
+            "label": "Tradicional ($5.00)",
+            "price": 5
+          },
+          {
+            "label": "Maracuyá ($5.00)",
+            "price": 5
+          }
+        ],
+        "pick": 3,
+        "free": 1,
+        "item": "Mojito"
+      }
+    ],
     "sku": ""
   },
   {

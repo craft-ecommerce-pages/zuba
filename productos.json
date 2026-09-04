@@ -819,6 +819,66 @@
     "sku": ""
   },
   {
+    "id": "18bc1107-b376-49bc-b51f-eaaf1d2cd04d",
+    "slug": "copa-de-sangria",
+    "nombre": "Copa de Sangría",
+    "precio": "6.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Vino tinto, fruta fresca y hielo se mezclan en una copa jugosa, aromática y refrescante, perfecta para brindar y abrir el apetito.",
+    "stock": null,
+    "imagenes": [
+      "/producto/copa-de-sangria/images/copa-de-sangria-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "deaf07e0-f630-444b-9a7f-b97548d52956",
+    "slug": "copa-vino-hervido",
+    "nombre": "Copa Vino Hervido",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Vino tinto caliente infusionado con canela, naranja y especias aromáticas; una copa envolvente, fragante y reconfortante desde el primer sorbo.",
+    "stock": null,
+    "imagenes": [
+      "/producto/copa-vino-hervido/images/copa-vino-hervido-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "a03a9820-a582-4ff3-8ce8-88f1023224b9",
+    "slug": "corona",
+    "nombre": "Corona",
+    "precio": "6.00",
+    "precio_promo": "",
+    "categorias": [
+      "cervezas-micheladas"
+    ],
+    "descripcion": "Cerveza Corona muy fría preparada con limón o maracuyá, de sabor limpio y refrescante, coronada con el toque cítrico ideal para una tarde de parrilla.",
+    "stock": null,
+    "imagenes": [
+      "/producto/corona/images/corona-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Limón",
+          "Maracuyá"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
     "id": "6b190a74-95d6-4b31-87ae-ea863b0b18e8",
     "slug": "costillas-ahumadas",
     "nombre": "Costillas Ahumadas",
@@ -1201,6 +1261,23 @@
     "sku": ""
   },
   {
+    "id": "a9045e04-a13d-4a09-afc2-125f80338214",
+    "slug": "fuze-tea-1lt",
+    "nombre": "Fuze Tea 1LT",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Un litro de té frío de sabor suave y refrescante, ideal para compartir y acompañar alitas, hamburguesas o parrilladas hasta el último bocado.",
+    "stock": null,
+    "imagenes": [
+      "/producto/fuze-tea-1lt/images/fuze-tea-1lt-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "a7b88886-3733-4282-a4b0-dc7acfe25f3c",
     "slug": "gaseosa-familiar-2-l",
     "nombre": "Gaseosa Familiar 2 L",
@@ -1230,6 +1307,23 @@
     "stock": null,
     "imagenes": [
       "/producto/gaseosa-personal/images/gaseosa-personal-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "59240ce1-8c33-45d1-8c16-4e9208054536",
+    "slug": "gatorade",
+    "nombre": "Gatorade",
+    "precio": "1.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Bebida hidratante servida bien fría, ligera y refrescante para recuperar energía y equilibrar cada bocado intenso de la parrilla.",
+    "stock": null,
+    "imagenes": [
+      "/producto/gatorade/images/gatorade-1.webp"
     ],
     "variantes": [],
     "sku": ""
@@ -1762,6 +1856,23 @@
     "stock": null,
     "imagenes": [
       "/producto/pina-colada/images/pina-colada-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8d7c2a7b-9c37-425d-a84c-9a27b77786b7",
+    "slug": "pony-malta",
+    "nombre": "Pony Malta",
+    "precio": "1.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Bebida de malta oscura, dulce y espumosa, servida helada para disfrutar su sabor tostado y refrescante en cada trago.",
+    "stock": null,
+    "imagenes": [
+      "/producto/pony-malta/images/pony-malta-1.webp"
     ],
     "variantes": [],
     "sku": ""

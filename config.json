@@ -10,12 +10,10 @@
     "cortes-premium": "🥩 Cortes Premium",
     "ensaladas": "🥗 Ensaladas",
     "mariscos": "🍤 Mariscos",
-    "parrilladas": "🔥 Parrilladas",
-    "promos-2x1": "🔥 Alitas 2x1"
+    "parrilladas": "🔥 Parrilladas"
   },
   "category_order": [
     "alitas",
-    "promos-2x1",
     "burgers",
     "cortes-premium",
     "mariscos",

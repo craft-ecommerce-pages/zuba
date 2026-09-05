@@ -26,8 +26,13 @@
   ],
   "cross_sell": {
     "categories": [
-      "acompanamientos",
-      "bebidas"
+      "alitas",
+      "burgers",
+      "cortes-premium",
+      "mariscos",
+      "parrilladas",
+      "ensaladas",
+      "cocteles"
     ],
     "max": 6,
     "title": "¿Algo para acompañar?"
@@ -94,7 +99,7 @@
     "cost": 0.5,
     "enabled": true,
     "label": "Empaque",
-    "mode": "per_order"
+    "mode": "per_unit"
   },
   "site_title": "Zuba – Alitas, Cortes \u0026 Parrilla | Santo Domingo",
   "store_name": "Zuba",
